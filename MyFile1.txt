@@ -1,0 +1,548 @@
+Sat Mar 17 19:41:35 IRKT 2018
+Sustainable energy - Wikipedia
+https://en.wikipedia.org/wiki/Sustainable_energy
+{0.03372093023255814=energy}
+Sat Mar 17 19:41:36 IRKT 2018
+Energy conservation - Wikipedia
+https://en.wikipedia.org/wiki/Energy_conservation
+{0.05587121212121212=energy}
+Sat Mar 17 19:41:37 IRKT 2018
+Efficient energy use - Wikipedia
+https://en.wikipedia.org/wiki/Efficient_energy_use
+{0.044745848650019016=energy}
+Sat Mar 17 19:41:49 IRKT 2018
+Portal:Renewable energy - Wikipedia
+https://en.wikipedia.org/wiki/Portal:Renewable_energy
+{0.03228285933897002=energy}
+Sat Mar 17 19:41:59 IRKT 2018
+Energy transition - Wikipedia
+https://en.wikipedia.org/wiki/Energy_transition
+{0.035283194057567316=energy}
+Sat Mar 17 19:42:00 IRKT 2018
+100% renewable energy - Wikipedia
+https://en.wikipedia.org/wiki/100%25_renewable_energy
+{0.03542713567839196=energy}
+Sat Mar 17 19:42:00 IRKT 2018
+Editing Sustainable energy (section) - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Sustainable_energy&action=edit&section=1
+{0.038461538461538464=energy}
+Sat Mar 17 19:42:09 IRKT 2018
+Energy security - Wikipedia
+https://en.wikipedia.org/wiki/Energy_security
+{0.035583638177585634=energy}
+Sat Mar 17 19:42:19 IRKT 2018
+Marine energy - Wikipedia
+https://en.wikipedia.org/wiki/Ocean_energy
+{0.04425363276089828=energy}
+Sat Mar 17 19:42:31 IRKT 2018
+Geothermal power in Iceland - Wikipedia
+https://en.wikipedia.org/wiki/Geothermal_power_in_Iceland
+{0.038288288288288286=energy}
+Sat Mar 17 19:42:32 IRKT 2018
+Geothermal power in the Philippines - Wikipedia
+https://en.wikipedia.org/wiki/Geothermal_power_in_the_Philippines
+{0.03136762860727729=energy}
+Sat Mar 17 19:45:25 IRKT 2018
+Editing Sustainable energy (section) - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Sustainable_energy&action=edit&section=7
+{0.03993055555555555=energy}
+Sat Mar 17 19:45:30 IRKT 2018
+Alliance to Save Energy - Wikipedia
+https://en.wikipedia.org/wiki/Alliance_to_Save_Energy
+{0.03479471120389701=energy}
+Sat Mar 17 19:47:45 IRKT 2018
+Editing Sustainable energy (section) - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Sustainable_energy&action=edit&section=11
+{0.031197301854974706=energy}
+Sat Mar 17 19:48:35 IRKT 2018
+Energy policy of the European Union - Wikipedia
+https://en.wikipedia.org/wiki/Internal_energy_market
+{0.037386163923949514=energy}
+Sat Mar 17 19:48:42 IRKT 2018
+United States Department of Energy - Wikipedia
+https://en.wikipedia.org/wiki/United_States_Department_of_Energy
+{0.038634900193174504=energy}
+Sat Mar 17 19:53:37 IRKT 2018
+Editing Sustainable energy (section) - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Sustainable_energy&action=edit&section=27
+{0.032504780114722756=energy}
+Sat Mar 17 19:53:40 IRKT 2018
+Portal:Energy - Wikipedia
+https://en.wikipedia.org/wiki/Portal:Energy
+{0.03390742734122713=energy}
+Sat Mar 17 19:53:43 IRKT 2018
+Ashden - Wikipedia
+https://en.wikipedia.org/wiki/Ashden_Award
+{0.033787788974510964=energy}
+Sat Mar 17 19:53:46 IRKT 2018
+Energy hierarchy - Wikipedia
+https://en.wikipedia.org/wiki/Energy_hierarchy
+{0.06505888951205833=energy}
+Sat Mar 17 19:53:46 IRKT 2018
+Energy park - Wikipedia
+https://en.wikipedia.org/wiki/Energy_park
+{0.03571428571428571=energy}
+Sat Mar 17 19:54:04 IRKT 2018
+Sustainable Energy for All - Wikipedia
+https://en.wikipedia.org/wiki/Sustainable_Energy_for_All
+{0.05239520958083832=energy}
+Sat Mar 17 19:54:13 IRKT 2018
+Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State | World Scientific
+http://www.worldscientific.com/worldscibooks/10.1142/9699
+{0.043319097010372176=energy}
+Sat Mar 17 19:54:59 IRKT 2018
+The Sustainable Energy Community :: invVest | invVEST Definition of Sustainable Energy
+http://www.invvest.org/blog/invVEST-Definition-of-Sustainable-Energy/
+{0.03002309468822171=energy}
+Sat Mar 17 19:55:03 IRKT 2018
+IEA - 404 Not Found
+http://www.iea.org/textbase/papers/2006/renewable_factsheet.pdf
+{0.04657534246575343=energy}
+Sat Mar 17 19:57:09 IRKT 2018
+sustainableenergyus
+https://sustainableenergyus.wordpress.com/
+{0.03389830508474576=energy}
+Sat Mar 17 19:57:43 IRKT 2018
+The Twin Pillars of Sustainable Energy: Synergies between Energy Efficiency and Renewable Energy Technology and Policy | ACEEE
+http://www.aceee.org/research-report/e074
+{0.06363636363636363=energy}
+Sat Mar 17 19:57:47 IRKT 2018
+Grid Modernization and the Smart Grid | Department of Energy
+http://energy.gov/oe/technology-development/smart-grid
+{0.03532136653155762=energy}
+Sat Mar 17 19:58:39 IRKT 2018
+Office of Electricity Delivery and Energy Reliability | Department of Energy
+http://energy.gov/oe/office-electricity-delivery-and-energy-reliability
+{0.04004711425206125=energy}
+Sat Mar 17 19:59:21 IRKT 2018
+Wind Energy – Sandia Energy
+http://energy.sandia.gov/?page_id=344
+{0.04151291512915129=energy}
+Sat Mar 17 19:59:25 IRKT 2018
+DABIRI LAB
+http://dabiri.caltech.edu/publications/FLOWE_APSDFD_Nov2011.pdf
+{0.09523809523809523=energy}
+Sat Mar 17 20:00:40 IRKT 2018
+Geothermal Technologies | NREL
+http://www.nrel.gov/geothermal/
+{0.0449438202247191=energy}
+Sat Mar 17 20:00:47 IRKT 2018
+Geothermal – Sandia Energy
+http://energy.sandia.gov/index.php?page_id=381
+{0.03506208911614317=energy}
+Sat Mar 17 20:00:53 IRKT 2018
+Hydrogen and Fuel Cells | NREL
+http://www.nrel.gov/hydrogen/
+{0.030952380952380953=energy}
+Sat Mar 17 20:01:32 IRKT 2018
+View source for Template:Renewable energy by country - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Template:Renewable_energy_by_country&action=edit
+{0.063006300630063=energy}
+Sat Mar 17 20:01:43 IRKT 2018
+Renewable energy in South Africa - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_Energy_in_South_Africa
+{0.041698449021103486=energy}
+Sat Mar 17 20:01:45 IRKT 2018
+Renewable energy in Armenia - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_energy_in_Armenia
+{0.034482758620689655=energy}
+Sat Mar 17 20:01:49 IRKT 2018
+Renewable energy in Bhutan - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_energy_in_Bhutan
+{0.03907637655417407=energy}
+Sat Mar 17 20:01:57 IRKT 2018
+Renewable energy in Palestine - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_energy_in_Palestine
+{0.031841652323580036=energy}
+Sat Mar 17 20:02:00 IRKT 2018
+Renewable energy in Thailand - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_energy_in_Thailand
+{0.041749502982107355=energy}
+Sat Mar 17 20:02:04 IRKT 2018
+Renewable energy in the Czech Republic - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_energy_in_the_Czech_Republic
+{0.0318118948824343=energy}
+Sat Mar 17 20:02:17 IRKT 2018
+Renewable energy in Luxembourg - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_energy_in_Luxembourg
+{0.03556485355648536=energy}
+Sat Mar 17 20:02:52 IRKT 2018
+Renewable energy in New Zealand - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_energy_in_New_Zealand
+{0.030390738060781478=energy}
+Sat Mar 17 20:02:54 IRKT 2018
+Renewable energy in Argentina - Wikipedia
+https://en.wikipedia.org/wiki/Renewable_energy_in_Argentina
+{0.03248259860788863=energy}
+Sat Mar 17 20:02:59 IRKT 2018
+Category:Renewable energy by country - Wikipedia
+https://en.wikipedia.org/wiki/Category:Renewable_energy_by_country
+{0.11274509803921569=energy}
+Sat Mar 17 20:02:59 IRKT 2018
+Template:Footer energy - Wikipedia
+https://en.wikipedia.org/wiki/Template:Footer_energy
+{0.06890459363957598=energy}
+Sat Mar 17 20:02:59 IRKT 2018
+Template talk:Footer energy - Wikipedia
+https://en.wikipedia.org/wiki/Template_talk:Footer_energy
+{0.034453057708871665=energy}
+Sat Mar 17 20:03:00 IRKT 2018
+Editing Template:Footer energy - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Template:Footer_energy&action=edit
+{0.066543438077634=energy}
+Sat Mar 17 20:03:03 IRKT 2018
+Energy - Wikipedia
+https://en.wikipedia.org/wiki/Energy
+{0.047670875054418804=energy}
+Sat Mar 17 20:03:04 IRKT 2018
+Outline of energy - Wikipedia
+https://en.wikipedia.org/wiki/Outline_of_energy
+{0.08248232521602514=energy}
+Sat Mar 17 20:03:05 IRKT 2018
+Units of energy - Wikipedia
+https://en.wikipedia.org/wiki/Units_of_energy
+{0.04871794871794872=energy}
+Sat Mar 17 20:03:09 IRKT 2018
+Energy transformation - Wikipedia
+https://en.wikipedia.org/wiki/Energy_transformation
+{0.06814580031695722=energy}
+Sat Mar 17 20:03:11 IRKT 2018
+Energy level - Wikipedia
+https://en.wikipedia.org/wiki/Energy_level
+{0.031047135196161445=energy}
+Sat Mar 17 20:03:13 IRKT 2018
+Energy system - Wikipedia
+https://en.wikipedia.org/wiki/Energy_system
+{0.05244974874371859=energy}
+Sat Mar 17 20:04:00 IRKT 2018
+Kinetic energy - Wikipedia
+https://en.wikipedia.org/wiki/Kinetic_energy
+{0.03412244897959184=energy}
+Sat Mar 17 20:04:02 IRKT 2018
+Thermal energy - Wikipedia
+https://en.wikipedia.org/wiki/Thermal_energy
+{0.05759162303664921=energy}
+Sat Mar 17 20:04:05 IRKT 2018
+Potential energy - Wikipedia
+https://en.wikipedia.org/wiki/Potential_energy
+{0.03330068560235064=energy}
+Sat Mar 17 20:04:05 IRKT 2018
+Gravitational energy - Wikipedia
+https://en.wikipedia.org/wiki/Gravitational_energy
+{0.05225863596102746=energy}
+Sat Mar 17 20:04:06 IRKT 2018
+Elastic energy - Wikipedia
+https://en.wikipedia.org/wiki/Elastic_energy
+{0.03230890464933018=energy}
+Sat Mar 17 20:04:09 IRKT 2018
+Mechanical energy - Wikipedia
+https://en.wikipedia.org/wiki/Mechanical_energy
+{0.04670985339243096=energy}
+Sat Mar 17 20:04:11 IRKT 2018
+Electrical energy - Wikipedia
+https://en.wikipedia.org/wiki/Electrical_energy
+{0.07261146496815286=energy}
+Sat Mar 17 20:04:11 IRKT 2018
+Magnetic energy - Wikipedia
+https://en.wikipedia.org/wiki/Magnetic_energy
+{0.0636237897648686=energy}
+Sat Mar 17 20:04:13 IRKT 2018
+Ionization energy - Wikipedia
+https://en.wikipedia.org/wiki/Ionization_energy
+{0.030313588850174215=energy}
+Sat Mar 17 20:04:16 IRKT 2018
+Binding energy - Wikipedia
+https://en.wikipedia.org/wiki/Binding_energy
+{0.04326123128119801=energy}
+Sat Mar 17 20:04:19 IRKT 2018
+Quantum chromodynamics binding energy - Wikipedia
+https://en.wikipedia.org/wiki/Chromodynamic_energy
+{0.04591104734576758=energy}
+Sat Mar 17 20:04:25 IRKT 2018
+Negative energy - Wikipedia
+https://en.wikipedia.org/wiki/Negative_energy
+{0.03273040482342808=energy}
+Sat Mar 17 20:04:26 IRKT 2018
+Chemical energy - Wikipedia
+https://en.wikipedia.org/wiki/Chemical_energy
+{0.05619834710743802=energy}
+Sat Mar 17 20:04:28 IRKT 2018
+Sound energy - Wikipedia
+https://en.wikipedia.org/wiki/Sound_energy
+{0.05976095617529881=energy}
+Sat Mar 17 20:04:33 IRKT 2018
+Energy carrier - Wikipedia
+https://en.wikipedia.org/wiki/Energy_carrier
+{0.07336956521739131=energy}
+Sat Mar 17 20:04:54 IRKT 2018
+Primary energy - Wikipedia
+https://en.wikipedia.org/wiki/Primary_energy
+{0.08263305322128851=energy}
+Sat Mar 17 20:05:02 IRKT 2018
+Marine energy - Wikipedia
+https://en.wikipedia.org/wiki/Marine_energy
+{0.04398148148148148=energy}
+Sat Mar 17 20:05:03 IRKT 2018
+Energy engineering - Wikipedia
+https://en.wikipedia.org/wiki/Energy_engineering
+{0.06655574043261231=energy}
+Sat Mar 17 20:05:26 IRKT 2018
+Energy supply - Wikipedia
+https://en.wikipedia.org/wiki/Energy_supply
+{0.05185909980430528=energy}
+Sat Mar 17 20:05:28 IRKT 2018
+Energy consumption - Wikipedia
+https://en.wikipedia.org/wiki/Energy_consumption
+{0.09748892171344166=energy}
+Sat Mar 17 20:05:33 IRKT 2018
+World energy consumption - Wikipedia
+https://en.wikipedia.org/wiki/World_energy_consumption
+{0.031172641422939396=energy}
+Sat Mar 17 20:05:38 IRKT 2018
+Energy efficiency in agriculture - Wikipedia
+https://en.wikipedia.org/wiki/Energy_efficiency_in_agriculture
+{0.06416184971098265=energy}
+Sat Mar 17 20:05:40 IRKT 2018
+Energy policy - Wikipedia
+https://en.wikipedia.org/wiki/Energy_policy
+{0.06199460916442048=energy}
+Sat Mar 17 20:05:49 IRKT 2018
+Energy development - Wikipedia
+https://en.wikipedia.org/wiki/Energy_development
+{0.03304717769505432=energy}
+Sat Mar 17 20:05:51 IRKT 2018
+Worldwide energy supply - Wikipedia
+https://en.wikipedia.org/wiki/Worldwide_energy_supply
+{0.04570722668313774=energy}
+Sat Mar 17 20:05:52 IRKT 2018
+Energy in South America - Wikipedia
+https://en.wikipedia.org/wiki/Energy_in_South_America
+{0.04417670682730924=energy}
+Sat Mar 17 20:06:05 IRKT 2018
+Category:Energy in Asia - Wikipedia
+https://en.wikipedia.org/wiki/Energy_in_Asia
+{0.08552631578947369=energy}
+Sat Mar 17 20:06:52 IRKT 2018
+Energy recovery - Wikipedia
+https://en.wikipedia.org/wiki/Energy_recovery
+{0.032520325203252036=energy}
+Sat Mar 17 20:10:51 IRKT 2018
+Energy poverty - Wikipedia
+https://en.wikipedia.org/wiki/Energy_poverty
+{0.038097886540600666=energy}
+Sat Mar 17 20:13:21 IRKT 2018
+Sustainable energy - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Sustainable_energy&oldid=830605432
+{0.03355025307302965=energy}
+Sat Mar 17 20:13:26 IRKT 2018
+Category:Energy economics - Wikipedia
+https://en.wikipedia.org/wiki/Category:Energy_economics
+{0.08616504854368932=energy}
+Sat Mar 17 20:13:26 IRKT 2018
+Category:Sustainable energy - Wikipedia
+https://en.wikipedia.org/wiki/Category:Sustainable_energy
+{0.061381074168797956=energy}
+Sat Mar 17 20:13:45 IRKT 2018
+Sustainable energy - Wikipedia
+https://en.wikipedia.org/wiki/Sustainable_energy
+{0.03372093023255814=energy}
+Sat Mar 17 20:14:45 IRKT 2018
+sustainable energy - Wikidata
+https://www.wikidata.org/wiki/Special:EntityPage/Q1962383
+{0.03498542274052478=energy}
+Sat Mar 17 20:14:56 IRKT 2018
+Sustainable energy - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Sustainable_energy&printable=yes
+{0.033794610342316095=energy}
+Sat Mar 17 20:14:57 IRKT 2018
+Category:Sustainable energy - Wikimedia Commons
+https://commons.wikimedia.org/wiki/Category:Sustainable_energy
+{0.041237113402061855=energy}
+Sat Mar 17 20:15:00 IRKT 2018
+انرژی پایدار - ویکی‌پدیا، دانشنامهٔ آزاد
+https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B1%DA%98%DB%8C_%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1
+{0.031914893617021274=energy}
+Sat Mar 17 20:15:18 IRKT 2018
+Sustainable energy - Simple English Wikipedia, the free encyclopedia
+https://simple.wikipedia.org/wiki/Sustainable_energy
+{0.0430622009569378=energy}
+Sat Mar 17 20:15:27 IRKT 2018
+可持續能源 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8F%AF%E6%8C%81%E7%BA%8C%E8%83%BD%E6%BA%90
+{0.058577405857740586=energy}
+Sat Mar 17 20:15:48 IRKT 2018
+Sustainable energy - Wikipedia
+https://en.m.wikipedia.org/w/index.php?title=Sustainable_energy&mobileaction=toggle_view_mobile
+{0.031506632975363234=energy}
+Sat Mar 17 20:21:46 IRKT 2018
+Clarke Energy - Wikipedia
+https://en.wikipedia.org/wiki/Clarke_Energy
+{0.038946162657502864=energy}
+Sat Mar 17 20:23:26 IRKT 2018
+User:FacultiesIntact/sandbox/Efficient energy use - Wikipedia
+https://en.wikipedia.org/wiki/User:FacultiesIntact/sandbox/Efficient_energy_use
+{0.04236977256052825=energy}
+Sat Mar 17 20:25:19 IRKT 2018
+قالب:Sustainable energy - ويكيبيديا، الموسوعة الحرة
+https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%84%D8%A8:Sustainable_energy
+{0.04081632653061224=energy}
+Sat Mar 17 20:25:38 IRKT 2018
+توان بادی - ویکی‌پدیا، دانشنامهٔ آزاد
+https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7%D9%86_%D8%A8%D8%A7%D8%AF%DB%8C
+{0.030470914127423823=energy}
+Sat Mar 17 20:26:01 IRKT 2018
+تولید هم‌زمان گرما و برق - ویکی‌پدیا، دانشنامهٔ آزاد
+https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%84%DB%8C%D8%AF_%D9%87%D9%85%E2%80%8C%D8%B2%D9%85%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D8%A7_%D9%88_%D8%A8%D8%B1%D9%82
+{0.03305785123966942=energy}
+Sat Mar 17 20:26:31 IRKT 2018
+الکتریسیته زمین‌گرمایی - ویکی‌پدیا، دانشنامهٔ آزاد
+https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%D8%B3%DB%8C%D8%AA%D9%87_%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%DA%AF%D8%B1%D9%85%D8%A7%DB%8C%DB%8C
+{0.03867403314917127=energy}
+Sat Mar 17 20:26:39 IRKT 2018
+انرژی حرارتی خورشیدی - ویکی‌پدیا، دانشنامهٔ آزاد
+https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B1%DA%98%DB%8C_%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C
+{0.06140350877192982=energy}
+Sat Mar 17 20:26:42 IRKT 2018
+سامانه فتوولتاییک - ویکی‌پدیا، دانشنامهٔ آزاد
+https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D9%81%D8%AA%D9%88%D9%88%D9%84%D8%AA%D8%A7%DB%8C%DB%8C%DA%A9
+{0.04065040650406504=energy}
+Sat Mar 17 20:27:41 IRKT 2018
+استفاده بهره‌ورانه از انرژی - ویکی‌پدیا، دانشنامهٔ آزاد
+https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87_%D8%A8%D9%87%D8%B1%D9%87%E2%80%8C%D9%88%D8%B1%D8%A7%D9%86%D9%87_%D8%A7%D8%B2_%D8%A7%D9%86%D8%B1%DA%98%DB%8C
+{0.0594059405940594=energy}
+Sat Mar 17 20:31:03 IRKT 2018
+Energy audit - Wikipedia
+https://en.wikipedia.org/wiki/Energy_audit
+{0.042067307692307696=energy}
+Sat Mar 17 20:33:59 IRKT 2018
+Editing Energy conservation (section) - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Energy_conservation&action=edit&section=5
+{0.04110671936758893=energy}
+Sat Mar 17 20:34:51 IRKT 2018
+Bureau of Energy Efficiency - Wikipedia
+https://en.wikipedia.org/wiki/Bureau_of_Energy_Efficiency
+{0.04666666666666667=energy}
+Sat Mar 17 20:34:59 IRKT 2018
+Lebanese Center for Energy Conservation - Wikipedia
+https://en.wikipedia.org/wiki/The_Lebanese_Center_for_Energy_Conservation
+{0.03245480287519059=energy}
+Sat Mar 17 20:37:38 IRKT 2018
+Editing Energy conservation (section) - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Energy_conservation&action=edit&section=16
+{0.03776683087027915=energy}
+Sat Mar 17 20:37:50 IRKT 2018
+United States Department of Energy - Wikipedia
+https://en.wikipedia.org/wiki/U.S._Department_of_Energy
+{0.0387912558936991=energy}
+Sat Mar 17 20:38:15 IRKT 2018
+Domestic energy consumption - Wikipedia
+https://en.wikipedia.org/wiki/Domestic_energy_consumption
+{0.04102976669348351=energy}
+Sat Mar 17 20:38:35 IRKT 2018
+EU Energy Efficiency Directive 2012 - Wikipedia
+https://en.wikipedia.org/wiki/EU_Energy_Efficiency_Directive_2012/27/EU
+{0.045598480050664976=energy}
+Sat Mar 17 20:38:39 IRKT 2018
+Khazzoom–Brookes postulate - Wikipedia
+https://en.wikipedia.org/wiki/Khazzoom%E2%80%93Brookes_postulate
+{0.030642750373692077=energy}
+Sat Mar 17 20:38:40 IRKT 2018
+List of low-energy building techniques - Wikipedia
+https://en.wikipedia.org/wiki/List_of_low-energy_building_techniques
+{0.05333333333333334=energy}
+Sat Mar 17 20:39:38 IRKT 2018
+Zero-energy building - Wikipedia
+https://en.wikipedia.org/wiki/Zero-energy_building
+{0.03818670764502497=energy}
+Sat Mar 17 20:39:45 IRKT 2018
+Top 5 Reasons to be Energy Efficient | Alliance to Save Energy
+http://www.ase.org/resources/top-5-reasons-be-energy-efficient
+{0.06718346253229975=energy}
+Sat Mar 17 20:41:05 IRKT 2018
+Energy Efficiency - European Commission
+http://ec.europa.eu/energy/efficiency/index_en.htm
+{0.07191521574564724=energy}
+Sat Mar 17 20:41:24 IRKT 2018
+ECCJ/Asia Energy Efficiency and Conservation Collaboration Center / Home
+http://www.asiaeec-col.eccj.or.jp/index.html
+{0.04594978683088584=energy}
+Sat Mar 17 20:41:44 IRKT 2018
+Introduction - Energy Efficiency Centre
+http://eec-fncci.org/content-introduction
+{0.048514851485148516=energy}
+Sat Mar 17 20:43:42 IRKT 2018
+Annual Energy Review - Energy Information Administration
+http://www.eia.doe.gov/emeu/aer/pdf/pages/sec1_3.pdf
+{0.031975867269984914=energy}
+Sat Mar 17 20:44:07 IRKT 2018
+Editing Energy conservation (section) - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Energy_conservation&action=edit&section=20
+{0.031007751937984496=energy}
+Sat Mar 17 20:44:13 IRKT 2018
+bigEE - Your guide to energy efficiency in buildings.
+http://www.bigee.net/
+{0.05275779376498801=energy}
+Sat Mar 17 20:44:17 IRKT 2018
+Save energy at home | Energy Saving Trust
+http://www.energysavingtrust.org.uk/
+{0.0511727078891258=energy}
+Sat Mar 17 20:44:35 IRKT 2018
+ENERGY STAR Buildings and Plants
+http://www.energystar.gov/index.cfm?c=business.bus_index
+{0.0723781388478582=energy}
+Sat Mar 17 20:49:05 IRKT 2018
+Energy conservation - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Energy_conservation&oldid=829900821
+{0.05496040987424313=energy}
+Sat Mar 17 20:49:08 IRKT 2018
+Category:Energy conservation - Wikipedia
+https://en.wikipedia.org/wiki/Category:Energy_conservation
+{0.07665903890160183=energy}
+Sat Mar 17 20:49:09 IRKT 2018
+Category:Energy efficiency - Wikipedia
+https://en.wikipedia.org/wiki/Category:Energy_efficiency
+{0.06796116504854369=energy}
+Sat Mar 17 20:49:11 IRKT 2018
+Category:Energy policy - Wikipedia
+https://en.wikipedia.org/wiki/Category:Energy_policy
+{0.09326424870466321=energy}
+Sat Mar 17 20:49:31 IRKT 2018
+Energy conservation - Wikipedia
+https://en.wikipedia.org/wiki/Energy_conservation
+{0.05587121212121212=energy}
+Sat Mar 17 20:49:38 IRKT 2018
+Editing Energy conservation - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Energy_conservation&action=edit
+{0.03954486103338929=energy}
+Sat Mar 17 20:50:00 IRKT 2018
+energy conservation - Wikidata
+https://www.wikidata.org/wiki/Special:EntityPage/Q380170
+{0.03482587064676617=energy}
+Sat Mar 17 20:50:11 IRKT 2018
+Energy conservation - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Energy_conservation&printable=yes
+{0.05616373155640171=energy}
+Sat Mar 17 20:51:03 IRKT 2018
+ઊર્જા બચત - વિકિપીડિયા
+https://gu.wikipedia.org/wiki/%E0%AA%8A%E0%AA%B0%E0%AB%8D%E0%AA%9C%E0%AA%BE_%E0%AA%AC%E0%AA%9A%E0%AA%A4
+{0.0676500508646999=energy}
+Sat Mar 17 20:51:35 IRKT 2018
+බලශක්ති සංරක්‍ෂණය - විකිපීඩියා, නිදහස් විශ්වකෝෂය
+https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B6%BD%E0%B7%81%E0%B6%9A%E0%B7%8A%E0%B6%AD%E0%B7%92_%E0%B7%83%E0%B6%82%E0%B6%BB%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B7%82%E0%B6%AB%E0%B6%BA
+{0.03616636528028933=energy}
+Sat Mar 17 20:51:39 IRKT 2018
+Energy conservation - Simple English Wikipedia, the free encyclopedia
+https://simple.wikipedia.org/wiki/Energy_conservation
+{0.04148576941630487=energy}
+Sat Mar 17 20:51:51 IRKT 2018
+ஆற்றல் சேமிப்பு - தமிழ் விக்கிப்பீடியா
+https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AF%87%E0%AE%AE%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81
+{0.030107526881720432=energy}
+Sat Mar 17 20:52:13 IRKT 2018
+節約能源 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%AF%80%E7%B4%84%E8%83%BD%E6%BA%90
+{0.041666666666666664=energy}
+Sat Mar 17 20:52:18 IRKT 2018
+Energy conservation - Wikipedia
+https://en.m.wikipedia.org/w/index.php?title=Energy_conservation&mobileaction=toggle_view_mobile
+{0.05283867341202923=energy}
