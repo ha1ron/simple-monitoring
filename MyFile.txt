@@ -1,948 +1,980 @@
-Fri Mar 23 22:25:49 IRKT 2018
-Sustainable energy - Wikipedia
-https://en.wikipedia.org/wiki/Sustainable_energy
-{0.03389461460299027=energy}
-Fri Mar 23 22:25:49 IRKT 2018
-Energy conservation - Wikipedia
-https://en.wikipedia.org/wiki/Energy_conservation
-{0.05636792452830189=energy}
-Fri Mar 23 22:25:50 IRKT 2018
-Efficient energy use - Wikipedia
-https://en.wikipedia.org/wiki/Efficient_energy_use
-{0.044745848650019016=energy}
-Fri Mar 23 22:25:58 IRKT 2018
-Portal:Renewable energy - Wikipedia
-https://en.wikipedia.org/wiki/Portal:Renewable_energy
-{0.030745580322828592=energy}
-Fri Mar 23 22:26:02 IRKT 2018
-Energy transition - Wikipedia
-https://en.wikipedia.org/wiki/Energy_transition
-{0.035275005801810165=energy}
-Fri Mar 23 22:26:03 IRKT 2018
-100% renewable energy - Wikipedia
-https://en.wikipedia.org/wiki/100%25_renewable_energy
-{0.03542713567839196=energy}
-Fri Mar 23 22:26:03 IRKT 2018
-Editing Sustainable energy (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Sustainable_energy&action=edit&section=1
-{0.038461538461538464=energy}
-Fri Mar 23 22:26:08 IRKT 2018
-Energy security - Wikipedia
-https://en.wikipedia.org/wiki/Energy_security
-{0.035583638177585634=energy}
-Fri Mar 23 22:26:11 IRKT 2018
-Marine energy - Wikipedia
-https://en.wikipedia.org/wiki/Ocean_energy
-{0.044407894736842105=energy}
-Fri Mar 23 22:26:15 IRKT 2018
-Geothermal power in Iceland - Wikipedia
-https://en.wikipedia.org/wiki/Geothermal_power_in_Iceland
-{0.038288288288288286=energy}
-Fri Mar 23 22:26:16 IRKT 2018
-Geothermal power in the Philippines - Wikipedia
-https://en.wikipedia.org/wiki/Geothermal_power_in_the_Philippines
-{0.03136762860727729=energy}
-Fri Mar 23 22:26:51 IRKT 2018
-Editing Sustainable energy (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Sustainable_energy&action=edit&section=7
-{0.03993055555555555=energy}
-Fri Mar 23 22:26:52 IRKT 2018
-Alliance to Save Energy - Wikipedia
-https://en.wikipedia.org/wiki/Alliance_to_Save_Energy
-{0.03479471120389701=energy}
-Fri Mar 23 22:27:12 IRKT 2018
-Editing Sustainable energy (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Sustainable_energy&action=edit&section=11
-{0.031197301854974706=energy}
-Fri Mar 23 22:27:20 IRKT 2018
-Energy policy of the European Union - Wikipedia
-https://en.wikipedia.org/wiki/Internal_energy_market
-{0.037386163923949514=energy}
-Fri Mar 23 22:27:22 IRKT 2018
-United States Department of Energy - Wikipedia
-https://en.wikipedia.org/wiki/United_States_Department_of_Energy
-{0.0390899689762151=energy}
-Fri Mar 23 22:27:59 IRKT 2018
-Editing Sustainable energy (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Sustainable_energy&action=edit&section=27
-{0.032504780114722756=energy}
-Fri Mar 23 22:28:00 IRKT 2018
-Portal:Energy - Wikipedia
-https://en.wikipedia.org/wiki/Portal:Energy
-{0.03390742734122713=energy}
-Fri Mar 23 22:28:00 IRKT 2018
-Ashden - Wikipedia
-https://en.wikipedia.org/wiki/Ashden_Award
-{0.033787788974510964=energy}
-Fri Mar 23 22:28:01 IRKT 2018
-Energy hierarchy - Wikipedia
-https://en.wikipedia.org/wiki/Energy_hierarchy
-{0.06505888951205833=energy}
-Fri Mar 23 22:28:01 IRKT 2018
-Energy park - Wikipedia
-https://en.wikipedia.org/wiki/Energy_park
-{0.03571428571428571=energy}
-Fri Mar 23 22:28:09 IRKT 2018
-Sustainable Energy for All - Wikipedia
-https://en.wikipedia.org/wiki/Sustainable_Energy_for_All
-{0.05239520958083832=energy}
-Fri Mar 23 22:28:15 IRKT 2018
-Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State | World Scientific
-http://www.worldscientific.com/worldscibooks/10.1142/9699
-{0.043319097010372176=energy}
-Fri Mar 23 22:28:52 IRKT 2018
-IEA - 404 Not Found
-http://www.iea.org/textbase/papers/2006/renewable_factsheet.pdf
-{0.04657534246575343=energy}
-Fri Mar 23 22:31:05 IRKT 2018
-sustainableenergyus
-https://sustainableenergyus.wordpress.com/
-{0.034139402560455195=energy}
-Fri Mar 23 22:31:35 IRKT 2018
-The Twin Pillars of Sustainable Energy: Synergies between Energy Efficiency and Renewable Energy Technology and Policy | ACEEE
-http://www.aceee.org/research-report/e074
-{0.06363636363636363=energy}
-Fri Mar 23 22:31:44 IRKT 2018
-Grid Modernization and the Smart Grid | Department of Energy
-http://energy.gov/oe/technology-development/smart-grid
-{0.03532136653155762=energy}
-Fri Mar 23 22:32:43 IRKT 2018
-Office of Electricity Delivery and Energy Reliability | Department of Energy
-http://energy.gov/oe/office-electricity-delivery-and-energy-reliability
-{0.038027332144979206=energy}
-Fri Mar 23 22:33:06 IRKT 2018
-Photovoltaics – Sandia Energy
-http://energy.sandia.gov/?page_id=2727
-{0.05073649754500818=energy}
-Fri Mar 23 22:33:25 IRKT 2018
-Wind Energy – Sandia Energy
-http://energy.sandia.gov/?page_id=344
-{0.040149393090569564=energy}
-Fri Mar 23 22:33:28 IRKT 2018
-DABIRI LAB
-http://dabiri.caltech.edu/publications/FLOWE_APSDFD_Nov2011.pdf
-{0.09523809523809523=energy}
-Fri Mar 23 22:34:34 IRKT 2018
-Geothermal Technologies | NREL
-http://www.nrel.gov/geothermal/
-{0.0449438202247191=energy}
-Fri Mar 23 22:34:40 IRKT 2018
-Geothermal – Sandia Energy
-http://energy.sandia.gov/index.php?page_id=381
-{0.03506208911614317=energy}
-Fri Mar 23 22:34:45 IRKT 2018
-Hydrogen and Fuel Cells | NREL
-http://www.nrel.gov/hydrogen/
-{0.030878859857482184=energy}
-Fri Mar 23 22:35:16 IRKT 2018
-View source for Template:Renewable energy by country - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Template:Renewable_energy_by_country&action=edit
-{0.063006300630063=energy}
-Fri Mar 23 22:35:17 IRKT 2018
-Renewable energy in South Africa - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_Energy_in_South_Africa
-{0.041698449021103486=energy}
-Fri Mar 23 22:35:18 IRKT 2018
-Renewable energy in Armenia - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_in_Armenia
-{0.034482758620689655=energy}
-Fri Mar 23 22:35:19 IRKT 2018
-Renewable energy in Bhutan - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_in_Bhutan
-{0.03907637655417407=energy}
-Fri Mar 23 22:35:20 IRKT 2018
-Renewable energy in Palestine - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_in_Palestine
-{0.031841652323580036=energy}
-Fri Mar 23 22:35:20 IRKT 2018
-Renewable energy in Thailand - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_in_Thailand
-{0.041749502982107355=energy}
-Fri Mar 23 22:35:21 IRKT 2018
-Renewable energy in the Czech Republic - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_in_the_Czech_Republic
-{0.0318118948824343=energy}
-Fri Mar 23 22:35:22 IRKT 2018
-Renewable energy in Luxembourg - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_in_Luxembourg
-{0.03556485355648536=energy}
-Fri Mar 23 22:35:26 IRKT 2018
-Renewable energy in New Zealand - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_in_New_Zealand
-{0.030390738060781478=energy}
-Fri Mar 23 22:35:26 IRKT 2018
-Renewable energy in Argentina - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_in_Argentina
-{0.03248259860788863=energy}
-Fri Mar 23 22:35:27 IRKT 2018
-Category:Renewable energy by country - Wikipedia
-https://en.wikipedia.org/wiki/Category:Renewable_energy_by_country
-{0.11274509803921569=energy}
-Fri Mar 23 22:35:27 IRKT 2018
-Template:Footer energy - Wikipedia
-https://en.wikipedia.org/wiki/Template:Footer_energy
-{0.07191780821917808=energy}
-Fri Mar 23 22:35:27 IRKT 2018
-Template talk:Footer energy - Wikipedia
-https://en.wikipedia.org/wiki/Template_talk:Footer_energy
-{0.034453057708871665=energy}
-Fri Mar 23 22:35:28 IRKT 2018
-Editing Template:Footer energy - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Template:Footer_energy&action=edit
-{0.06762849413886383=energy}
-Fri Mar 23 22:35:28 IRKT 2018
-Energy - Wikipedia
-https://en.wikipedia.org/wiki/Energy
-{0.04790354116880295=energy}
-Fri Mar 23 22:35:28 IRKT 2018
-Outline of energy - Wikipedia
-https://en.wikipedia.org/wiki/Outline_of_energy
-{0.08248232521602514=energy}
-Fri Mar 23 22:35:29 IRKT 2018
-Units of energy - Wikipedia
-https://en.wikipedia.org/wiki/Units_of_energy
-{0.05008347245409015=energy}
-Fri Mar 23 22:35:29 IRKT 2018
-Energy transformation - Wikipedia
-https://en.wikipedia.org/wiki/Energy_transformation
-{0.06884343036978757=energy}
-Fri Mar 23 22:35:29 IRKT 2018
-Energy level - Wikipedia
-https://en.wikipedia.org/wiki/Energy_level
-{0.030637593154844052=energy}
-Fri Mar 23 22:35:30 IRKT 2018
-Energy system - Wikipedia
-https://en.wikipedia.org/wiki/Energy_system
-{0.05309181761399125=energy}
-Fri Mar 23 22:35:35 IRKT 2018
-Kinetic energy - Wikipedia
-https://en.wikipedia.org/wiki/Kinetic_energy
-{0.03454456574873717=energy}
-Fri Mar 23 22:35:35 IRKT 2018
-Thermal energy - Wikipedia
-https://en.wikipedia.org/wiki/Thermal_energy
-{0.058639562157935886=energy}
-Fri Mar 23 22:35:35 IRKT 2018
-Potential energy - Wikipedia
-https://en.wikipedia.org/wiki/Potential_energy
-{0.0335935321996097=energy}
-Fri Mar 23 22:35:35 IRKT 2018
-Gravitational energy - Wikipedia
-https://en.wikipedia.org/wiki/Gravitational_energy
-{0.05405405405405406=energy}
-Fri Mar 23 22:35:36 IRKT 2018
-Elastic energy - Wikipedia
-https://en.wikipedia.org/wiki/Elastic_energy
-{0.03325508607198748=energy}
-Fri Mar 23 22:35:36 IRKT 2018
-Mechanical energy - Wikipedia
-https://en.wikipedia.org/wiki/Mechanical_energy
-{0.047441545238902066=energy}
-Fri Mar 23 22:35:36 IRKT 2018
-Electrical energy - Wikipedia
-https://en.wikipedia.org/wiki/Electrical_energy
-{0.074719800747198=energy}
-Fri Mar 23 22:35:36 IRKT 2018
-Magnetic energy - Wikipedia
-https://en.wikipedia.org/wiki/Magnetic_energy
-{0.06612685560053981=energy}
-Fri Mar 23 22:35:36 IRKT 2018
-Ionization energy - Wikipedia
-https://en.wikipedia.org/wiki/Ionization_energy
-{0.030313588850174215=energy}
-Fri Mar 23 22:35:37 IRKT 2018
-Binding energy - Wikipedia
-https://en.wikipedia.org/wiki/Binding_energy
-{0.04695222405271829=energy}
-Fri Mar 23 22:35:37 IRKT 2018
-Quantum chromodynamics binding energy - Wikipedia
-https://en.wikipedia.org/wiki/Chromodynamic_energy
-{0.04591104734576758=energy}
-Fri Mar 23 22:35:38 IRKT 2018
-Negative energy - Wikipedia
-https://en.wikipedia.org/wiki/Negative_energy
-{0.03273040482342808=energy}
-Fri Mar 23 22:35:38 IRKT 2018
-Chemical energy - Wikipedia
-https://en.wikipedia.org/wiki/Chemical_energy
-{0.05781758957654723=energy}
-Fri Mar 23 22:35:39 IRKT 2018
-Sound energy - Wikipedia
-https://en.wikipedia.org/wiki/Sound_energy
-{0.0622568093385214=energy}
-Fri Mar 23 22:35:40 IRKT 2018
-Energy carrier - Wikipedia
-https://en.wikipedia.org/wiki/Energy_carrier
-{0.0748663101604278=energy}
-Fri Mar 23 22:35:42 IRKT 2018
-Primary energy - Wikipedia
-https://en.wikipedia.org/wiki/Primary_energy
-{0.08333333333333333=energy}
-Fri Mar 23 22:35:43 IRKT 2018
-Marine energy - Wikipedia
-https://en.wikipedia.org/wiki/Marine_energy
-{0.044707429322813935=energy}
-Fri Mar 23 22:35:43 IRKT 2018
-Energy engineering - Wikipedia
-https://en.wikipedia.org/wiki/Energy_engineering
-{0.06754530477759473=energy}
-Fri Mar 23 22:35:45 IRKT 2018
-Energy supply - Wikipedia
-https://en.wikipedia.org/wiki/Energy_supply
-{0.05286129970902037=energy}
-Fri Mar 23 22:35:45 IRKT 2018
-Energy consumption - Wikipedia
-https://en.wikipedia.org/wiki/Energy_consumption
-{0.0975254730713246=energy}
-Fri Mar 23 22:35:45 IRKT 2018
-World energy consumption - Wikipedia
-https://en.wikipedia.org/wiki/World_energy_consumption
-{0.03116692639105326=energy}
-Fri Mar 23 22:35:45 IRKT 2018
-Energy efficiency in agriculture - Wikipedia
-https://en.wikipedia.org/wiki/Energy_efficiency_in_agriculture
-{0.06521739130434782=energy}
-Fri Mar 23 22:35:46 IRKT 2018
-Energy policy - Wikipedia
-https://en.wikipedia.org/wiki/Energy_policy
-{0.06255585344057193=energy}
-Fri Mar 23 22:35:46 IRKT 2018
-Energy development - Wikipedia
-https://en.wikipedia.org/wiki/Energy_development
-{0.03322964873681815=energy}
-Fri Mar 23 22:35:46 IRKT 2018
-Worldwide energy supply - Wikipedia
-https://en.wikipedia.org/wiki/Worldwide_energy_supply
-{0.0471875=energy}
-Fri Mar 23 22:35:46 IRKT 2018
-Energy in South America - Wikipedia
-https://en.wikipedia.org/wiki/Energy_in_South_America
-{0.04417670682730924=energy}
-Fri Mar 23 22:35:47 IRKT 2018
-Category:Energy in Asia - Wikipedia
-https://en.wikipedia.org/wiki/Energy_in_Asia
-{0.08552631578947369=energy}
-Fri Mar 23 22:35:52 IRKT 2018
-Energy recovery - Wikipedia
-https://en.wikipedia.org/wiki/Energy_recovery
-{0.03156958648288128=energy}
-Fri Mar 23 22:36:06 IRKT 2018
-Energy poverty - Wikipedia
-https://en.wikipedia.org/wiki/Energy_poverty
-{0.038097886540600666=energy}
-Fri Mar 23 22:36:18 IRKT 2018
-Sustainable energy - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Sustainable_energy&oldid=830605432
-{0.03372328134026574=energy}
-Fri Mar 23 22:36:18 IRKT 2018
-Category:Energy economics - Wikipedia
-https://en.wikipedia.org/wiki/Category:Energy_economics
-{0.08616504854368932=energy}
-Fri Mar 23 22:36:18 IRKT 2018
-Category:Sustainable energy - Wikipedia
-https://en.wikipedia.org/wiki/Category:Sustainable_energy
-{0.061381074168797956=energy}
-Fri Mar 23 22:36:32 IRKT 2018
-sustainable energy - Wikidata
-https://www.wikidata.org/wiki/Special:EntityPage/Q1962383
-{0.03498542274052478=energy}
-Fri Mar 23 22:36:34 IRKT 2018
-Sustainable energy - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Sustainable_energy&printable=yes
-{0.03396857724759965=energy}
-Fri Mar 23 22:36:35 IRKT 2018
-Category:Sustainable energy - Wikimedia Commons
-https://commons.wikimedia.org/wiki/Category:Sustainable_energy
-{0.04020100502512563=energy}
-Fri Mar 23 22:36:37 IRKT 2018
-انرژی پایدار - ویکی‌پدیا، دانشنامهٔ آزاد
-https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B1%DA%98%DB%8C_%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1
-{0.031914893617021274=energy}
-Fri Mar 23 22:36:44 IRKT 2018
-Sustainable energy - Simple English Wikipedia, the free encyclopedia
-https://simple.wikipedia.org/wiki/Sustainable_energy
-{0.0430622009569378=energy}
-Fri Mar 23 22:36:47 IRKT 2018
-可持續能源 - 维基百科，自由的百科全书
-https://zh.wikipedia.org/wiki/%E5%8F%AF%E6%8C%81%E7%BA%8C%E8%83%BD%E6%BA%90
-{0.058577405857740586=energy}
-Fri Mar 23 22:36:52 IRKT 2018
-Sustainable energy - Wikipedia
-https://en.m.wikipedia.org/w/index.php?title=Sustainable_energy&mobileaction=toggle_view_mobile
-{0.031506632975363234=energy}
-Fri Mar 23 22:37:57 IRKT 2018
-Clarke Energy - Wikipedia
-https://en.wikipedia.org/wiki/Clarke_Energy
-{0.038946162657502864=energy}
-Fri Mar 23 22:38:03 IRKT 2018
-User:FacultiesIntact/sandbox/Efficient energy use - Wikipedia
-https://en.wikipedia.org/wiki/User:FacultiesIntact/sandbox/Efficient_energy_use
-{0.04236977256052825=energy}
-Fri Mar 23 22:38:09 IRKT 2018
-قالب:Sustainable energy - ويكيبيديا، الموسوعة الحرة
-https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%84%D8%A8:Sustainable_energy
-{0.04081632653061224=energy}
-Fri Mar 23 22:38:10 IRKT 2018
-توان بادی - ویکی‌پدیا، دانشنامهٔ آزاد
-https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7%D9%86_%D8%A8%D8%A7%D8%AF%DB%8C
-{0.030470914127423823=energy}
-Fri Mar 23 22:38:11 IRKT 2018
-تولید هم‌زمان گرما و برق - ویکی‌پدیا، دانشنامهٔ آزاد
-https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%84%DB%8C%D8%AF_%D9%87%D9%85%E2%80%8C%D8%B2%D9%85%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D8%A7_%D9%88_%D8%A8%D8%B1%D9%82
-{0.03305785123966942=energy}
-Fri Mar 23 22:38:13 IRKT 2018
-الکتریسیته زمین‌گرمایی - ویکی‌پدیا، دانشنامهٔ آزاد
-https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%D8%B3%DB%8C%D8%AA%D9%87_%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%DA%AF%D8%B1%D9%85%D8%A7%DB%8C%DB%8C
-{0.03867403314917127=energy}
-Fri Mar 23 22:38:13 IRKT 2018
-انرژی حرارتی خورشیدی - ویکی‌پدیا، دانشنامهٔ آزاد
-https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B1%DA%98%DB%8C_%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C
-{0.06140350877192982=energy}
-Fri Mar 23 22:38:14 IRKT 2018
-سامانه فتوولتاییک - ویکی‌پدیا، دانشنامهٔ آزاد
-https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D9%81%D8%AA%D9%88%D9%88%D9%84%D8%AA%D8%A7%DB%8C%DB%8C%DA%A9
-{0.04065040650406504=energy}
-Fri Mar 23 22:38:18 IRKT 2018
-استفاده بهره‌ورانه از انرژی - ویکی‌پدیا، دانشنامهٔ آزاد
-https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87_%D8%A8%D9%87%D8%B1%D9%87%E2%80%8C%D9%88%D8%B1%D8%A7%D9%86%D9%87_%D8%A7%D8%B2_%D8%A7%D9%86%D8%B1%DA%98%DB%8C
-{0.0594059405940594=energy}
-Fri Mar 23 22:38:32 IRKT 2018
-Energy audit - Wikipedia
-https://en.wikipedia.org/wiki/Energy_audit
-{0.042067307692307696=energy}
-Fri Mar 23 22:38:39 IRKT 2018
-Editing Energy conservation (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Energy_conservation&action=edit&section=5
-{0.04112297350731514=energy}
-Fri Mar 23 22:38:42 IRKT 2018
-Bureau of Energy Efficiency - Wikipedia
-https://en.wikipedia.org/wiki/Bureau_of_Energy_Efficiency
-{0.04666666666666667=energy}
-Fri Mar 23 22:38:45 IRKT 2018
-Lebanese Center for Energy Conservation - Wikipedia
-https://en.wikipedia.org/wiki/The_Lebanese_Center_for_Energy_Conservation
-{0.03245480287519059=energy}
-Fri Mar 23 22:38:54 IRKT 2018
-Editing Energy conservation (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Energy_conservation&action=edit&section=16
-{0.03776683087027915=energy}
-Fri Mar 23 22:38:54 IRKT 2018
-United States Department of Energy - Wikipedia
-https://en.wikipedia.org/wiki/U.S._Department_of_Energy
-{0.039239983477901696=energy}
-Fri Mar 23 22:38:57 IRKT 2018
-Domestic energy consumption - Wikipedia
-https://en.wikipedia.org/wiki/Domestic_energy_consumption
-{0.04282315622521808=energy}
-Fri Mar 23 22:38:57 IRKT 2018
-EU Energy Efficiency Directive 2012 - Wikipedia
-https://en.wikipedia.org/wiki/EU_Energy_Efficiency_Directive_2012/27/EU
-{0.045598480050664976=energy}
-Fri Mar 23 22:38:58 IRKT 2018
-Khazzoom–Brookes postulate - Wikipedia
-https://en.wikipedia.org/wiki/Khazzoom%E2%80%93Brookes_postulate
-{0.030642750373692077=energy}
-Fri Mar 23 22:38:58 IRKT 2018
-List of low-energy building techniques - Wikipedia
-https://en.wikipedia.org/wiki/List_of_low-energy_building_techniques
-{0.05333333333333334=energy}
-Fri Mar 23 22:39:00 IRKT 2018
-Zero-energy building - Wikipedia
-https://en.wikipedia.org/wiki/Zero-energy_building
-{0.03818670764502497=energy}
-Fri Mar 23 22:39:06 IRKT 2018
-Top 5 Reasons to be Energy Efficient | Alliance to Save Energy
-http://www.ase.org/resources/top-5-reasons-be-energy-efficient
-{0.06786941580756013=energy}
-Fri Mar 23 22:39:54 IRKT 2018
-Energy Efficiency - European Commission
-http://ec.europa.eu/energy/efficiency/index_en.htm
-{0.07137490608564989=energy}
-Fri Mar 23 22:40:01 IRKT 2018
-ECCJ/Asia Energy Efficiency and Conservation Collaboration Center / Home
-http://www.asiaeec-col.eccj.or.jp/index.html
-{0.04594978683088584=energy}
-Fri Mar 23 22:40:19 IRKT 2018
-Introduction - Energy Efficiency Centre
-http://eec-fncci.org/content-introduction
-{0.048514851485148516=energy}
-Fri Mar 23 22:40:49 IRKT 2018
-Annual Energy Review - Energy Information Administration
-http://www.eia.doe.gov/emeu/aer/pdf/pages/sec1_3.pdf
-{0.03229701177180803=energy}
-Fri Mar 23 22:40:55 IRKT 2018
-Editing Energy conservation (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Energy_conservation&action=edit&section=20
-{0.031007751937984496=energy}
-Fri Mar 23 22:40:57 IRKT 2018
-bigEE - Your guide to energy efficiency in buildings.
-http://www.bigee.net/
-{0.05275779376498801=energy}
-Fri Mar 23 22:40:58 IRKT 2018
-Save energy at home | Energy Saving Trust
-http://www.energysavingtrust.org.uk/
-{0.0511727078891258=energy}
-Fri Mar 23 22:41:15 IRKT 2018
-ENERGY STAR Buildings and Plants
-http://www.energystar.gov/index.cfm?c=business.bus_index
-{0.0723781388478582=energy}
-Fri Mar 23 22:41:28 IRKT 2018
-Energy conservation - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Energy_conservation&oldid=831040200
-{0.05558139534883721=energy}
-Fri Mar 23 22:41:29 IRKT 2018
-Category:Energy conservation - Wikipedia
-https://en.wikipedia.org/wiki/Category:Energy_conservation
-{0.07665903890160183=energy}
-Fri Mar 23 22:41:29 IRKT 2018
-Category:Energy efficiency - Wikipedia
-https://en.wikipedia.org/wiki/Category:Energy_efficiency
-{0.06796116504854369=energy}
-Fri Mar 23 22:41:29 IRKT 2018
-Category:Energy policy - Wikipedia
-https://en.wikipedia.org/wiki/Category:Energy_policy
-{0.09326424870466321=energy}
-Fri Mar 23 22:41:31 IRKT 2018
-Editing Energy conservation - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Energy_conservation&action=edit
-{0.03954486103338929=energy}
-Fri Mar 23 22:41:35 IRKT 2018
-energy conservation - Wikidata
-https://www.wikidata.org/wiki/Special:EntityPage/Q380170
-{0.03482587064676617=energy}
-Fri Mar 23 22:41:37 IRKT 2018
-Energy conservation - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Energy_conservation&printable=yes
-{0.05666192508297772=energy}
-Fri Mar 23 22:41:45 IRKT 2018
-ઊર્જા બચત - વિકિપીડિયા
-https://gu.wikipedia.org/wiki/%E0%AA%8A%E0%AA%B0%E0%AB%8D%E0%AA%9C%E0%AA%BE_%E0%AA%AC%E0%AA%9A%E0%AA%A4
-{0.0676500508646999=energy}
-Fri Mar 23 22:41:51 IRKT 2018
-බලශක්ති සංරක්‍ෂණය - විකිපීඩියා, නිදහස් විශ්වකෝෂය
-https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B6%BD%E0%B7%81%E0%B6%9A%E0%B7%8A%E0%B6%AD%E0%B7%92_%E0%B7%83%E0%B6%82%E0%B6%BB%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B7%82%E0%B6%AB%E0%B6%BA
-{0.03616636528028933=energy}
-Fri Mar 23 22:41:52 IRKT 2018
-Energy conservation - Simple English Wikipedia, the free encyclopedia
-https://simple.wikipedia.org/wiki/Energy_conservation
-{0.04148576941630487=energy}
-Fri Mar 23 22:41:54 IRKT 2018
-ஆற்றல் சேமிப்பு - தமிழ் விக்கிப்பீடியா
-https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AF%87%E0%AE%AE%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81
-{0.03023758099352052=energy}
-Fri Mar 23 22:41:56 IRKT 2018
-節約能源 - 维基百科，自由的百科全书
-https://zh.wikipedia.org/wiki/%E7%AF%80%E7%B4%84%E8%83%BD%E6%BA%90
-{0.041666666666666664=energy}
-Fri Mar 23 22:41:57 IRKT 2018
-Energy conservation - Wikipedia
-https://en.m.wikipedia.org/w/index.php?title=Energy_conservation&mobileaction=toggle_view_mobile
-{0.052853528254146756=energy}
-Fri Mar 23 22:42:37 IRKT 2018
-Energy policy of the European Union - Wikipedia
-https://en.wikipedia.org/wiki/Energy_policy_of_the_European_Union
-{0.037256156060121524=energy}
-Fri Mar 23 22:44:13 IRKT 2018
-Office of Clean Coal and Carbon Management | Department of Energy
-http://fossil.energy.gov/programs/powersystems/turbines/turbines_howitworks.html
-{0.03173164097914778=energy}
-Fri Mar 23 22:44:37 IRKT 2018
-Electricity delivery - Wikipedia
-https://en.wikipedia.org/wiki/Electricity_delivery
-{0.05913978494623656=energy}
-Fri Mar 23 22:44:39 IRKT 2018
-Energy returned on energy invested - Wikipedia
-https://en.wikipedia.org/wiki/Energy_returned_on_energy_invested
-{0.044244244244244245=energy}
-Fri Mar 23 22:44:49 IRKT 2018
-Renewable Energy Payments - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_energy_payments
-{0.03841387856257745=energy}
-Fri Mar 23 22:44:52 IRKT 2018
-Category:Energy conversion - Wikipedia
-https://en.wikipedia.org/wiki/Category:Energy_conversion
-{0.03183023872679045=energy}
-Fri Mar 23 22:44:52 IRKT 2018
-Category:Renewable energy - Wikipedia
-https://en.wikipedia.org/wiki/Category:Renewable_energy
-{0.07220708446866485=energy}
-Fri Mar 23 22:45:30 IRKT 2018
-热电联产 - 维基百科，自由的百科全书
-https://zh.wikipedia.org/wiki/%E7%83%AD%E7%94%B5%E8%81%94%E4%BA%A7
-{0.033816425120772944=energy}
-Fri Mar 23 22:45:31 IRKT 2018
-Energy efficiency - Wikipedia
-https://en.wikipedia.org/wiki/Energy_efficiency_(disambiguation)
-{0.05080213903743316=energy}
-Fri Mar 23 22:45:43 IRKT 2018
-Energy input labeling - Wikipedia
-https://en.wikipedia.org/wiki/Energy_input_labeling
-{0.0584070796460177=energy}
-Fri Mar 23 22:45:46 IRKT 2018
-Embodied energy - Wikipedia
-https://en.wikipedia.org/wiki/Embodied_energy
-{0.03690036900369004=energy}
-Fri Mar 23 22:45:49 IRKT 2018
-Building energy simulation - Wikipedia
-https://en.wikipedia.org/wiki/Building_energy_simulation
-{0.0367047308319739=energy}
-Fri Mar 23 22:45:50 IRKT 2018
-Deep energy retrofit - Wikipedia
-https://en.wikipedia.org/wiki/Deep_energy_retrofit
-{0.03556771545827633=energy}
-Fri Mar 23 22:45:53 IRKT 2018
-Negawatt power - Wikipedia
-https://en.wikipedia.org/wiki/Negawatt
-{0.030745410307454105=energy}
-Fri Mar 23 22:45:54 IRKT 2018
-Editing Efficient energy use (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Efficient_energy_use&action=edit&section=4
-{0.0324435318275154=energy}
-Fri Mar 23 22:45:55 IRKT 2018
-Energy efficiency in Europe (study) - Wikipedia
-https://en.wikipedia.org/wiki/Energy_efficiency_in_Europe_(study)
-{0.04446742502585315=energy}
-Fri Mar 23 22:45:56 IRKT 2018
-Editing Efficient energy use - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Efficient_energy_use&action=edit&section=
-{0.0359257797078563=energy}
-Fri Mar 23 22:45:59 IRKT 2018
-German National Action Plan on Energy Efficiency - Wikipedia
-https://en.wikipedia.org/wiki/German_National_Action_Plan_on_Energy_Efficiency
-{0.053495440729483285=energy}
-Fri Mar 23 22:46:03 IRKT 2018
-Energy Modeling Forum - Wikipedia
-https://en.wikipedia.org/wiki/Energy_Modeling_Forum
-{0.03016453382084095=energy}
-Fri Mar 23 22:46:04 IRKT 2018
-United States Department of Energy - Wikipedia
-https://en.wikipedia.org/wiki/US_Department_of_Energy
-{0.03924808923776079=energy}
-Fri Mar 23 22:46:38 IRKT 2018
-Sustainable energy - Wikipedia
-https://en.wikipedia.org/wiki/Clean_energy
-{0.033783783783783786=energy}
-Fri Mar 23 22:46:41 IRKT 2018
-Editing Efficient energy use (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Efficient_energy_use&action=edit&section=19
-{0.03857142857142857=energy}
-Fri Mar 23 22:46:46 IRKT 2018
-International Partnership for Energy Efficiency Cooperation - Wikipedia
-https://en.wikipedia.org/wiki/International_Partnership_for_Energy_Efficiency_Cooperation
-{0.033261026753434564=energy}
-Fri Mar 23 22:46:46 IRKT 2018
-World Sustainable Energy Days - Wikipedia
-https://en.wikipedia.org/wiki/World_Sustainable_Energy_Days
-{0.030100334448160536=energy}
-Fri Mar 23 22:47:02 IRKT 2018
-Energy Saving Trust - Wikipedia
-https://en.wikipedia.org/wiki/Energy_Saving_Trust
-{0.054336989032901295=energy}
-Fri Mar 23 22:47:02 IRKT 2018
-National Energy Action - Wikipedia
-https://en.wikipedia.org/wiki/National_Energy_Action
-{0.03922918100481762=energy}
-Fri Mar 23 22:47:02 IRKT 2018
-National Energy Foundation - Wikipedia
-https://en.wikipedia.org/wiki/National_Energy_Foundation
-{0.0392=energy}
-Fri Mar 23 22:47:09 IRKT 2018
-Energy Managers Association
-http://www.theema.org.uk/
-{0.06380952380952382=energy}
-Fri Mar 23 22:47:09 IRKT 2018
-American Council for an Energy-Efficient Economy - Wikipedia
-https://en.wikipedia.org/wiki/American_Council_for_an_Energy-Efficient_Economy
-{0.040280210157618214=energy}
-Fri Mar 23 22:47:09 IRKT 2018
-Building Codes Assistance Project - Wikipedia
-https://en.wikipedia.org/wiki/Building_Codes_Assistance_Project
-{0.043010752688172046=energy}
-Fri Mar 23 22:47:09 IRKT 2018
-Building Energy Codes Program - Wikipedia
-https://en.wikipedia.org/wiki/Building_Energy_Codes_Program
-{0.045787545787545784=energy}
-Fri Mar 23 22:47:09 IRKT 2018
-Consortium for Energy Efficiency - Wikipedia
-https://en.wikipedia.org/wiki/Consortium_for_Energy_Efficiency
-{0.03209242618741977=energy}
-Fri Mar 23 22:47:10 IRKT 2018
-Energy Star - Wikipedia
-https://en.wikipedia.org/wiki/Energy_Star
-{0.04549854791868345=energy}
-Fri Mar 23 22:47:10 IRKT 2018
-Industrial Assessment Center - Wikipedia
-https://en.wikipedia.org/wiki/Industrial_Assessment_Center
-{0.03125=energy}
-Fri Mar 23 22:47:11 IRKT 2018
-Editing Efficient energy use (section) - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Efficient_energy_use&action=edit&section=20
-{0.03119584055459272=energy}
-Fri Mar 23 22:47:12 IRKT 2018
-Electrical energy efficiency on United States farms - Wikipedia
-https://en.wikipedia.org/wiki/Electrical_energy_efficiency_on_United_States_farms
-{0.03769968051118211=energy}
-Fri Mar 23 22:47:12 IRKT 2018
-Energy conservation measure - Wikipedia
-https://en.wikipedia.org/wiki/Energy_conservation_measure
-{0.04435483870967742=energy}
-Fri Mar 23 22:47:13 IRKT 2018
-Energy efficiency implementation - Wikipedia
-https://en.wikipedia.org/wiki/Energy_efficiency_implementation
-{0.043209876543209874=energy}
-Fri Mar 23 22:47:13 IRKT 2018
-Energy development - Wikipedia
-https://en.wikipedia.org/wiki/Energy_resilience
-{0.03329541145240804=energy}
-Fri Mar 23 22:47:14 IRKT 2018
-Negawatt power - Wikipedia
-https://en.wikipedia.org/wiki/Negawatt_power
-{0.030765825586542717=energy}
-Fri Mar 23 22:47:15 IRKT 2018
-World Energy Engineering Congress - Wikipedia
-https://en.wikipedia.org/wiki/World_Energy_Engineering_Congress
-{0.042071197411003236=energy}
-Fri Mar 23 22:47:16 IRKT 2018
-Energy Reduction Assets - Wikipedia
-https://en.wikipedia.org/wiki/Energy_Reduction_Assets
-{0.038796516231195566=energy}
-Fri Mar 23 22:47:16 IRKT 2018
-John A. Laitner - Wikipedia
-https://en.wikipedia.org/wiki/John_A._%22Skip%22_Laitner
-{0.031934877896055106=energy}
-Fri Mar 23 22:47:37 IRKT 2018
-Fact Sheet - Building Energy Efficiency | White Papers | EESI
-http://www.eesi.org/buildings_efficiency_0506
-{0.05263157894736842=energy}
-Fri Mar 23 22:47:44 IRKT 2018
-ENERGY STAR Buildings and Plants
-http://www.energystar.gov/index.cfm?fuseaction=buildingcontest.eui
-{0.0723781388478582=energy}
-Fri Mar 23 22:48:18 IRKT 2018
-Suppliers Obligations and White Certificates - European Commission
-http://iet.jrc.ec.europa.eu/energyefficiency/white-certificates
-{0.030637254901960783=energy}
-Fri Mar 23 22:48:33 IRKT 2018
-BMWi - Federal Ministry for Economic Affairs and Energy - Germany makes it efficient
-http://www.bmwi.de/EN/Topics/Energy/Energy-Efficiency/nape,did=667778.html
-{0.04926590538336052=energy}
-Fri Mar 23 22:48:34 IRKT 2018
-BMWi - Federal Ministry for Economic Affairs and Energy - Making more out of energy
-http://www.bmwi.de/English/Redaktion/Pdf/nape-national-action-plan-on-energy-efficiency,property=pdf,bereich=bmwi2012,sprache=en,rwb=true.pdf
-{0.040293040293040296=energy}
-Fri Mar 23 22:48:38 IRKT 2018
-Lagging efficiency to get top priority in Germany’s Energiewende | Clean Energy Wire
-https://www.cleanenergywire.org/news/lagging-efficiency-get-top-priority-germanys-energiewende
-{0.03490136570561457=energy}
-Fri Mar 23 22:49:07 IRKT 2018
-Energy Apps Catalog | OpenEI
-http://en.openei.org/apps/
-{0.05319148936170213=energy}
-Fri Mar 23 22:49:33 IRKT 2018
-Efficient energy use - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Efficient_energy_use&oldid=831038061
-{0.04428553506460921=energy}
-Fri Mar 23 22:49:38 IRKT 2018
-Editing Efficient energy use - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Efficient_energy_use&action=edit
-{0.0359257797078563=energy}
-Fri Mar 23 22:49:44 IRKT 2018
-Efficient energy use - Wikipedia
-https://en.wikipedia.org/w/index.php?title=Efficient_energy_use&printable=yes
-{0.04487668446478515=energy}
-Fri Mar 23 22:49:53 IRKT 2018
-Энергоэффективность — Википедия
-https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C
-{0.05459770114942529=energy}
-Fri Mar 23 22:49:54 IRKT 2018
-Енергоефективність — Вікіпедія
-https://uk.wikipedia.org/wiki/%D0%95%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8C
-{0.07086614173228346=energy}
-Fri Mar 23 22:49:55 IRKT 2018
-能源效率 - 维基百科，自由的百科全书
-https://zh.wikipedia.org/wiki/%E8%83%BD%E6%BA%90%E6%95%88%E7%8E%87
-{0.03178484107579462=energy}
-Fri Mar 23 22:49:56 IRKT 2018
-Efficient energy use - Wikipedia
-https://en.m.wikipedia.org/w/index.php?title=Efficient_energy_use&mobileaction=toggle_view_mobile
-{0.04525489152136297=energy}
-Fri Mar 23 22:50:08 IRKT 2018
-Low-energy house - Wikipedia
-https://en.wikipedia.org/wiki/Low-energy_house
-{0.04612706701479547=energy}
-Fri Mar 23 22:50:11 IRKT 2018
-Energy rebate program - Wikipedia
-https://en.wikipedia.org/wiki/Energy_rebate_program
-{0.038461538461538464=energy}
-Fri Mar 23 22:50:27 IRKT 2018
-Energy-plus-house - Wikipedia
-https://en.wikipedia.org/wiki/Energy-plus-house
-{0.04801670146137787=energy}
-Fri Mar 23 22:53:12 IRKT 2018
-Category:Low-energy building - Wikipedia
-https://en.wikipedia.org/wiki/Category:Low-energy_building
-{0.04508856682769726=energy}
-Fri Mar 23 22:54:25 IRKT 2018
-Renewable Heat Incentive - Wikipedia
-https://en.wikipedia.org/wiki/Renewable_Heat_Incentive
-{0.030153508771929825=energy}
-Fri Mar 23 22:54:51 IRKT 2018
-Energy Saver | Department of Energy
-http://www.energysavers.gov/your_home/space_heating_cooling/index.cfm/mytopic=12640
-{0.03024193548387097=energy}
-Fri Mar 23 22:55:03 IRKT 2018
-Office of Energy Efficiency & Renewable Energy | Department of Energy
-http://apps1.eere.energy.gov/consumer/your_home/space_heating_cooling/index.cfm/mytopic=12640
-{0.03433098591549296=energy}
-Fri Mar 23 22:55:32 IRKT 2018
-IHT | Interseasonal Heat Transfer™ | Seasonal Heat Storage | GSHC | Renewable Heat & Renewable Cooling from ThermalBanks | Efficient Renewable Energy | Hybrid Renewable Energy Systems
-http://www.icax.co.uk/interseasonal_heat_transfer.html
-{0.03121387283236994=energy}
-Fri Mar 23 22:55:43 IRKT 2018
-Energy and environment report 2008 — European Environment Agency
-http://www.eea.europa.eu/publications/eea_report_2008_6
-{0.030393996247654785=energy}
-Fri Mar 23 22:56:27 IRKT 2018
-Energy Saver | Department of Energy
-http://www.energysavers.gov/your_home/space_heating_cooling/index.cfm/mytopic=12670
-{0.03024193548387097=energy}
-Fri Mar 23 22:57:00 IRKT 2018
-Office of Energy Efficiency & Renewable Energy | Department of Energy
-http://apps1.eere.energy.gov/consumer/your_home/space_heating_cooling/index.cfm/mytopic=12670
-{0.03433098591549296=energy}
-Fri Mar 23 22:57:03 IRKT 2018
-Office of Energy Efficiency and Renewable Energy - Wikipedia
-https://en.wikipedia.org/wiki/EERE
-{0.04414650098103336=energy}
-Fri Mar 23 22:57:03 IRKT 2018
-United States Department of Energy - Wikipedia
-https://en.wikipedia.org/wiki/USDOE
-{0.03906572964034725=energy}
-Fri Mar 23 22:57:07 IRKT 2018
-Template:Geothermal power - Wikipedia
-https://en.wikipedia.org/wiki/Template:Geothermal_power
-{0.0447427293064877=energy}
-Fri Mar 23 22:57:09 IRKT 2018
-Category:Geothermal energy - Wikipedia
-https://en.wikipedia.org/wiki/Category:Geothermal_energy
-{0.034653465346534656=energy}
-Fri Mar 23 22:57:09 IRKT 2018
-Category:Geothermal energy by country - Wikipedia
-https://en.wikipedia.org/wiki/Category:Geothermal_energy_by_country
-{0.07676348547717843=energy}
-Fri Mar 23 22:57:10 IRKT 2018
-Geothermal power in Denmark - Wikipedia
-https://en.wikipedia.org/wiki/Geothermal_power_in_Denmark
-{0.035416666666666666=energy}
-Fri Mar 23 22:57:12 IRKT 2018
-Geothermal energy in Lebanon - Wikipedia
-https://en.wikipedia.org/wiki/Geothermal_energy_in_Lebanon
-{0.04122137404580153=energy}
-Fri Mar 23 22:57:12 IRKT 2018
-Geothermal power in Portugal - Wikipedia
-https://en.wikipedia.org/wiki/Geothermal_power_in_Portugal
-{0.03633217993079585=energy}
-Fri Mar 23 22:57:14 IRKT 2018
-Energy returned on energy invested - Wikipedia
-https://en.wikipedia.org/wiki/EROEI
-{0.04421768707482993=energy}
-Fri Mar 23 22:57:28 IRKT 2018
-Геотермальный тепловой насос — Википедия
-https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BD%D0%B0%D1%81%D0%BE%D1%81
-{0.03571428571428571=energy}
-Fri Mar 23 22:57:39 IRKT 2018
-Benjamin K. Sovacool - Wikipedia
-https://en.wikipedia.org/wiki/Benjamin_K._Sovacool
-{0.03619909502262444=energy}
-Fri Mar 23 22:57:53 IRKT 2018
-World Wind Energy Association - Wikipedia
-https://en.wikipedia.org/wiki/World_Wind_Energy_Association
-{0.03646237393328161=energy}
-Fri Mar 23 22:58:10 IRKT 2018
-Portal:Energy - Wikipedia
-https://en.wikipedia.org/wiki/Energy_portal
-{0.034371643394199784=energy}
-Fri Mar 23 22:58:10 IRKT 2018
-List of renewable energy organizations - Wikipedia
-https://en.wikipedia.org/wiki/List_of_renewable_energy_organizations
-{0.15066225165562913=energy}
-Fri Mar 23 22:58:29 IRKT 2018
-Is Nuclear Energy Renewable Energy?
-http://large.stanford.edu/courses/2012/ph241/chowdhury2/
-{0.05338078291814947=energy}
-Fri Mar 23 22:58:40 IRKT 2018
-Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants - ScienceDirect
-http://www.sciencedirect.com/science/article/pii/S0360544213000492
-{0.03978779840848806=energy}
-Fri Mar 23 22:58:46 IRKT 2018
-Comments on “Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants”—Making clear of quite some confusion - ScienceDirect
-http://www.sciencedirect.com/science/article/pii/S0360544213006373
-{0.03414634146341464=energy}
-Fri Mar 23 22:58:47 IRKT 2018
-Reply on “Comments on ‘Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants’ – Making clear of quite some confusion” - ScienceDirect
-http://www.sciencedirect.com/science/article/pii/S0360544214001601
-{0.032520325203252036=energy}
-Fri Mar 23 22:58:49 IRKT 2018
-Rebuttal: “Comments on ‘Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants’ – Making clear of quite some confusion” - ScienceDirect
-http://www.sciencedirect.com/science/article/pii/S0360544214014327
-{0.04=energy}
-Fri Mar 23 22:58:51 IRKT 2018
-Publication: Key World Energy Statistics
-http://www.iea.org/publications/freepublications/publication/KeyWorld_Statistics_2015.pdf
-{0.05708661417322835=energy}
-Fri Mar 23 22:59:41 IRKT 2018
-Solar | Department of Energy
-https://www.energy.gov/energysources/solar.htm
-{0.06792452830188679=energy}
-Fri Mar 23 23:00:02 IRKT 2018
-EIA - International Energy Outlook 2017
-http://www.eia.doe.gov/oiaf/ieo/figure_7.html
-{0.0379746835443038=energy}
-Fri Mar 23 23:00:19 IRKT 2018
-Category:Alternative energy - Wikipedia
-https://en.wikipedia.org/wiki/Category:Alternative_energy
-{0.047337278106508875=energy}
-Fri Mar 23 23:00:19 IRKT 2018
-Category:Energy development - Wikipedia
-https://en.wikipedia.org/wiki/Category:Energy_development
-{0.06571936056838366=energy}
-Fri Mar 23 23:00:59 IRKT 2018
-Climate Change and Sustainable Energy Act 2006 - Wikipedia
-https://en.wikipedia.org/wiki/Climate_Change_and_Sustainable_Energy_Act_2006
-{0.0323943661971831=energy}
-Fri Mar 23 23:01:01 IRKT 2018
-Department of Energy and Climate Change - Wikipedia
-https://en.wikipedia.org/wiki/Department_for_Energy_and_Climate_Change
-{0.034794396746497966=energy}
-Fri Mar 23 23:01:29 IRKT 2018
-Office of Energy Efficiency & Renewable Energy | Department of Energy
-http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=10620
-{0.03433098591549296=energy}
-Fri Mar 23 23:01:31 IRKT 2018
-Office of Energy Efficiency & Renewable Energy | Department of Energy
-http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=10980
-{0.03433098591549296=energy}
-Fri Mar 23 23:01:41 IRKT 2018
-Office of Energy Efficiency & Renewable Energy | Department of Energy
-http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=10600
-{0.03433098591549296=energy}
-Fri Mar 23 23:01:43 IRKT 2018
-Office of Energy Efficiency & Renewable Energy | Department of Energy
-http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=10880
-{0.03433098591549296=energy}
-Fri Mar 23 23:01:47 IRKT 2018
-How big are Power line losses? - Schneider Electric Blog
-http://blog.schneider-electric.com/energy-management-energy-efficiency/2013/03/25/how-big-are-power-line-losses/
-{0.0407725321888412=energy}
-Fri Mar 23 23:03:03 IRKT 2018
-Category:Distributed generation - Wikipedia
-https://en.wikipedia.org/wiki/Category:Distributed_generation
-{0.017006802721088437=generation, 0.02040816326530612=energy}
-Fri Mar 23 23:03:03 IRKT 2018
-Category:Energy sources - Wikipedia
-https://en.wikipedia.org/wiki/Category:Energy_sources
-{0.0438871473354232=energy}
-Fri Mar 23 23:03:18 IRKT 2018
-微型發電 - 维基百科，自由的百科全书
-https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%9E%8B%E7%99%BC%E9%9B%BB
-{0.0641025641025641=energy}
+﻿Sun Apr 08 21:16:59 IRKT 2018
+Возобновляемая энергия — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F
+[0.00410429744084983=энергия ветра, 0.00374215354901014=геотермальная энергия]
+Sun Apr 08 21:17:03 IRKT 2018
+Энергия — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F
+[0.012510947078693857=энергия ветра]
+Sun Apr 08 21:17:07 IRKT 2018
+Окружающая среда — Википедия
+https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0
+[0.012532637075718014=окружающая среда]
+Sun Apr 08 21:17:37 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F
+[0.006425842306356374=мвт энергии]
+Sun Apr 08 21:17:52 IRKT 2018
+Мировое потребление энергии — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8
+[0.006620663931368892=мвт энергии]
+Sun Apr 08 21:17:58 IRKT 2018
+Ветроэнергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F_%D0%B2%D0%B5%D1%82%D1%80%D0%B0
+[0.007332430062963259=мвт энергии]
+Sun Apr 08 21:17:58 IRKT 2018
+Солнечная батарея — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D1%8C
+[0.0036101083032490976=солнечная батарея]
+Sun Apr 08 21:18:01 IRKT 2018
+Биоэтанол — Википедия
+https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D1%8D%D1%82%D0%B0%D0%BD%D0%BE%D0%BB
+[0.003967379325545514=природный газ]
+Sun Apr 08 21:18:01 IRKT 2018
+IKEA — Википедия
+https://ru.wikipedia.org/wiki/IKEA
+[0.002241817366611867=управляющая компания]
+Sun Apr 08 21:18:05 IRKT 2018
+Ветроэнергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.007337108222346279=мвт энергии]
+Sun Apr 08 21:18:09 IRKT 2018
+Биодизель — Википедия
+https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%B4%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C
+[0.0027607361963190185=природный газ]
+Sun Apr 08 21:18:26 IRKT 2018
+Нефть — Википедия
+https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8C
+[0.0014655593551538837=природный газ]
+Sun Apr 08 21:18:28 IRKT 2018
+Природный газ — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%B7
+[0.013440860215053764=природный газ]
+Sun Apr 08 21:18:28 IRKT 2018
+Торф — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D1%84
+[0.006058673469387755=природный газ]
+Sun Apr 08 21:18:32 IRKT 2018
+Ветрогенератор — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80
+[0.0038772757923128793=мвт энергии]
+Sun Apr 08 21:18:38 IRKT 2018
+Электрический ток — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%BE%D0%BA
+[0.002064977973568282=электрическая мощность]
+Sun Apr 08 21:18:40 IRKT 2018
+Река — Википедия
+https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D0%B0
+[0.00252156602521566=подземные воды, 0.00119442601194426=подземная вода]
+Sun Apr 08 21:18:52 IRKT 2018
+Малая гидроэлектростанция — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+[0.01302785265049416=малая гэс]
+Sun Apr 08 21:19:08 IRKT 2018
+Энергия волн океана — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F_%D0%B2%D0%BE%D0%BB%D0%BD
+[0.007896221094190636=энергия ветра]
+Sun Apr 08 21:19:19 IRKT 2018
+Солнечная энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.007484796507094963=солнечная энергетика, 0.005613597380321222=мвт энергии]
+Sun Apr 08 21:19:50 IRKT 2018
+Паровая турбина — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%82%D1%83%D1%80%D0%B1%D0%B8%D0%BD%D0%B0
+[0.010657193605683837=паровая турбина]
+Sun Apr 08 21:19:56 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F
+[0.006425842306356374=мвт энергии]
+Sun Apr 08 21:19:58 IRKT 2018
+Электроэнергия — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F
+[0.002746174970576697=промышленное производство]
+Sun Apr 08 21:19:59 IRKT 2018
+Топливо — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE
+[0.00885208452312964=ядерное топливо, 0.004283266704740148=природный газ]
+Sun Apr 08 21:20:00 IRKT 2018
+Дрова — Википедия
+https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B2%D0%B0
+[0.009300444803881924=природный газ]
+Sun Apr 08 21:20:01 IRKT 2018
+Солома — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%B0
+[0.004866180048661801=конструкционный материал]
+Sun Apr 08 21:20:01 IRKT 2018
+Метанол — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%BB
+[0.0015636497424576894=природный газ]
+Sun Apr 08 21:20:02 IRKT 2018
+Биогаз — Википедия
+https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%B3%D0%B0%D0%B7
+[0.004532442748091603=природный газ]
+Sun Apr 08 21:20:03 IRKT 2018
+Биомасса — Википедия
+https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC%D0%B0%D1%81%D1%81%D0%B0
+[0.004078605858361142=мвт энергии]
+Sun Apr 08 21:20:07 IRKT 2018
+Бензин — Википедия
+https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B7%D0%B8%D0%BD
+[0.0016268098259313488=октановое число]
+Sun Apr 08 21:20:12 IRKT 2018
+Система чистого измерения — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F
+[0.003882552778451832=потребитель энергии, 0.0036398932297985924=потребитель электроэнергии]
+Sun Apr 08 21:20:12 IRKT 2018
+Альтернативная энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.013397129186602871=источник энергии, 0.004784688995215311=источник электроэнергии, 0.003189792663476874=природный газ]
+Sun Apr 08 21:20:36 IRKT 2018
+Солнечный соляной пруд — базовый элемент индивидуальных солнечных установок.Использование солнечной энергии | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/?p=2532
+[0.009534961525593844=мвт энергии, 0.003345600535296086=электрическая мощность]
+Sun Apr 08 21:20:54 IRKT 2018
+Экология — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
+[0.002103491796381994=экологическая безопасность]
+Sun Apr 08 21:20:56 IRKT 2018
+Экологическая этика — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%82%D0%B8%D0%BA%D0%B0
+[0.005701254275940707=экологическая безопасность]
+Sun Apr 08 21:21:00 IRKT 2018
+Глобальное потепление — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+[2.1058727526389217E-4=парниковый газ]
+Sun Apr 08 21:21:04 IRKT 2018
+Международное право охраны окружающей среды — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B5%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D1%8B
+[0.0012133468149646107=региональная энергетика]
+Sun Apr 08 21:21:05 IRKT 2018
+Экологическая безопасность — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+[0.006593406593406593=экологическая безопасность]
+Sun Apr 08 21:21:05 IRKT 2018
+Экологические преступления — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F
+[0.001816860465116279=экологическая обстановка]
+Sun Apr 08 21:21:08 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.006434782608695652=мвт энергии]
+Sun Apr 08 21:21:13 IRKT 2018
+Всемирный день водных ресурсов — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2
+[0.002583979328165375=экологическая безопасность]
+Sun Apr 08 21:21:17 IRKT 2018
+Министерство природных ресурсов и экологии Российской Федерации — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8
+[0.01950354609929078=министерство природных ресурсов]
+Sun Apr 08 21:21:18 IRKT 2018
+Климат — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D0%B0%D1%82
+[0.0012889617998593861=энергия ветра]
+Sun Apr 08 21:21:19 IRKT 2018
+Солярный климат — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D0%B8%D0%BC%D0%B0%D1%82
+[0.006844626967830253=солнечная энергия]
+Sun Apr 08 21:21:19 IRKT 2018
+Циркуляция атмосферы — Википедия
+https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D0%B0%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D1%8B
+[0.0016515276630883566=энергия ветра]
+Sun Apr 08 21:21:20 IRKT 2018
+Геохимический цикл углерода — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB_%D1%83%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4%D0%B0
+[0.0027927388789148215=парниковый газ]
+Sun Apr 08 21:21:22 IRKT 2018
+Парниковый эффект — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82
+[0.003024003024003024=парниковый газ]
+Sun Apr 08 21:21:22 IRKT 2018
+Парниковые газы — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B3%D0%B0%D0%B7%D1%8B
+[0.003066700741119346=парниковый газ]
+Sun Apr 08 21:21:23 IRKT 2018
+Пик нефти — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA_%D0%BD%D0%B5%D1%84%D1%82%D0%B8
+[0.007338761517034497=баррель нефти]
+Sun Apr 08 21:21:24 IRKT 2018
+Возобновляемая энергия — Википедия
+https://ru.wikipedia.org/w/index.php?title=Возобновляемая_энергия&oldid=91038720
+[0.004061641380958069=энергия ветра, 0.0037032612591088284=геотермальная энергия]
+Sun Apr 08 21:21:25 IRKT 2018
+Категория:Возобновляемые источники энергии — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8
+[0.006469500924214418=солнечная энергия]
+Sun Apr 08 21:21:35 IRKT 2018
+Страницы, ссылающиеся на «Возобновляемая энергия» — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F
+[0.0044585987261146496=солнечная энергия, 0.003821656050955414=солнечная энергетика]
+Sun Apr 08 21:21:37 IRKT 2018
+Возобновляемая энергия — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&oldid=91038720
+[0.004061641380958069=энергия ветра, 0.0037032612591088284=геотермальная энергия]
+Sun Apr 08 21:21:42 IRKT 2018
+Возобновляемая энергия — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&printable=yes
+[0.0041753653444676405=энергия ветра, 0.003806950755249908=геотермальная энергия]
+Sun Apr 08 21:23:05 IRKT 2018
+Возобновляемая энергия — Википедия
+https://ru.m.wikipedia.org/w/index.php?title=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&mobileaction=toggle_view_mobile
+[0.003741662599642102=энергия ветра]
+Sun Apr 08 21:23:42 IRKT 2018
+Возобновляемая энергия — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.0041003376748673425=энергия ветра, 0.0037385431741437532=геотермальная энергия]
+Sun Apr 08 21:23:47 IRKT 2018
+Возобновляемая энергия — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&printable=yes
+[0.004171267329162066=энергия ветра, 0.003803214329530119=геотермальная энергия]
+Sun Apr 08 21:23:50 IRKT 2018
+СГС — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%93%D0%A1
+[0.005214205186020293=трансформатор тока и напряжения, 5.636978579481398E-4=трансформатор тока]
+Sun Apr 08 21:24:00 IRKT 2018
+Мощность — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+[0.009911894273127752=электрическая мощность]
+Sun Apr 08 21:24:02 IRKT 2018
+Ядерная энергия — Википедия
+https://ru.wikipedia.org/wiki/%D0%AF%D0%B4%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F
+[0.00453091684434968=атомная энергия]
+Sun Apr 08 21:24:03 IRKT 2018
+Энергия электромагнитного поля — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8F
+[0.004852686308492201=электрическая энергия, 0.0020797227036395147=электрическая мощность]
+Sun Apr 08 21:24:09 IRKT 2018
+Тринитротолуол — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D1%80%D0%BE%D1%82%D0%BE%D0%BB%D1%83%D0%BE%D0%BB
+[0.0016920473773265653=промышленное производство]
+Sun Apr 08 21:24:11 IRKT 2018
+Эйнштейн, Альберт — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82
+[1.5443617924892536E-4=энергия ветра]
+Sun Apr 08 21:24:14 IRKT 2018
+Общая теория относительности — Википедия
+https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+[5.180715548241604E-4=энергия солнца]
+Sun Apr 08 21:24:15 IRKT 2018
+Литр — Википедия
+https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D1%80
+[0.003022808463863699=кубический метр]
+Sun Apr 08 21:24:17 IRKT 2018
+Энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.004276985743380856=природный газ, 0.003258655804480652=электрическая сеть, 0.00285132382892057=централизованное теплоснабжение, 0.001629327902240326=электрическая подстанция]
+Sun Apr 08 21:24:24 IRKT 2018
+Энергия — Википедия
+https://ru.wikipedia.org/w/index.php?title=Энергия&oldid=91304832
+[0.012371644191513053=энергия ветра]
+Sun Apr 08 21:24:29 IRKT 2018
+Энергия — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&oldid=91304832
+[0.012371644191513053=энергия ветра]
+Sun Apr 08 21:24:33 IRKT 2018
+Энергия — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&printable=yes
+[0.012774655084312725=энергия ветра]
+Sun Apr 08 21:26:44 IRKT 2018
+Энергия — Википедия
+https://ru.m.wikipedia.org/w/index.php?title=%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&mobileaction=toggle_view_mobile
+[0.014396456256921373=энергия ветра]
+Sun Apr 08 21:27:01 IRKT 2018
+Среда обитания — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B0_%D0%BE%D0%B1%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+[0.015763546798029555=окружающая среда]
+Sun Apr 08 21:27:05 IRKT 2018
+Организация Объединённых Наций — Википедия
+https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%9D%D0%B0%D1%86%D0%B8%D0%B9
+[0.001643979746169527=генеральный секретарь]
+Sun Apr 08 21:27:40 IRKT 2018
+Атмосфера Земли — Википедия
+https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8
+[0.0013192612137203166=источник газа]
+Sun Apr 08 21:27:41 IRKT 2018
+Гидросфера — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0
+[0.006149116064565719=подземные воды]
+Sun Apr 08 21:28:13 IRKT 2018
+Экологическая ниша — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B8%D1%88%D0%B0
+[0.002=окружающая среда]
+Sun Apr 08 21:28:17 IRKT 2018
+Стихийное бедствие — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D1%85%D0%B8%D0%B9%D0%BD%D0%BE%D0%B5_%D0%B1%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D0%B5
+[0.002177463255307567=материальный ущерб]
+Sun Apr 08 21:28:27 IRKT 2018
+Окружающая среда — Википедия
+https://ru.wikipedia.org/w/index.php?title=Окружающая_среда&oldid=89781585
+[0.011934361014420686=окружающая среда]
+Sun Apr 08 21:28:29 IRKT 2018
+Категория:Экология — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
+[0.0020218358269308533=окружающая среда]
+Sun Apr 08 21:28:33 IRKT 2018
+Окружающая среда — история изменений — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%9E%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0&action=history
+[0.0014871468026343743=окружающая среда]
+Sun Apr 08 21:28:37 IRKT 2018
+Окружающая среда — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%9E%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0&oldid=89781585
+[0.011934361014420686=окружающая среда]
+Sun Apr 08 21:28:40 IRKT 2018
+natural environment - Wikidata
+https://www.wikidata.org/wiki/Special:EntityPage/Q43619
+[8.448324415657561E-4=окружающая среда]
+Sun Apr 08 21:28:43 IRKT 2018
+Окружающая среда — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%9E%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0&printable=yes
+[0.01275239107332625=окружающая среда]
+Sun Apr 08 21:30:54 IRKT 2018
+Окружающая среда — Википедия
+https://ru.m.wikipedia.org/w/index.php?title=%D0%9E%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0&mobileaction=toggle_view_mobile
+[0.023781212841854936=окружающая среда]
+Sun Apr 08 21:31:01 IRKT 2018
+Трубопровод — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D0%B1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4
+[0.0025404157043879905=технологический газ]
+Sun Apr 08 21:31:11 IRKT 2018
+Освоение космоса — Википедия
+https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0
+[0.002475247524752475=освоение ресурсов]
+Sun Apr 08 21:31:13 IRKT 2018
+Транспортное средство — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE
+[0.0030026109660574417=источник энергии]
+Sun Apr 08 21:31:29 IRKT 2018
+Паровая машина — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0
+[0.004004875500609437=паровая турбина]
+Sun Apr 08 21:31:49 IRKT 2018
+Электричество — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+[0.0014194464158978=электрическая машина]
+Sun Apr 08 21:32:06 IRKT 2018
+Велосипед — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4
+[5.413818772416594E-4=электрический привод, 3.383636732760371E-4=электрический узел]
+Sun Apr 08 21:32:18 IRKT 2018
+Трансформатор — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%BE%D1%80
+[0.024476965886839123=трансформатор тока и напряжения, 0.008502524992270432=трансформатор тока]
+Sun Apr 08 21:32:19 IRKT 2018
+Электрический двигатель — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%82%D0%BE%D0%BA%D0%B0
+[0.0016881198565098122=электрический узел]
+Sun Apr 08 21:32:26 IRKT 2018
+Танк — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%BA
+[2.1020547585264595E-4=электрический привод]
+Sun Apr 08 21:32:29 IRKT 2018
+Жидкостный ракетный двигатель — Википедия
+https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C
+[5.005631335252158E-4=электрический узел]
+Sun Apr 08 21:32:34 IRKT 2018
+Ядерный реактор — Википедия
+https://ru.wikipedia.org/wiki/%D0%AF%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%BE%D1%80
+[0.01623228166438043=реактор на быстрых нейтронах, 0.012688614540466393=реакторы на быстрых нейтронах, 0.009373571101966164=ядерный реактор, 0.0010288065843621398=природный уран]
+Sun Apr 08 21:32:49 IRKT 2018
+Принтер — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80
+[5.62271577171774E-4=электрический привод, 2.1085184143941523E-4=электрический узел]
+Sun Apr 08 21:33:05 IRKT 2018
+Электрический двигатель — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C
+[0.0016924053310767928=электрический узел]
+Sun Apr 08 21:33:19 IRKT 2018
+Газовая плита — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B8%D1%82%D0%B0
+[0.003436426116838488=природный газ]
+Sun Apr 08 21:33:43 IRKT 2018
+Электрическая машина — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0
+[0.024054982817869414=электрическая машина, 0.02268041237113402=трансформатор тока и напряжения, 0.008934707903780068=трансформатор тока]
+Sun Apr 08 21:33:45 IRKT 2018
+Атомная электростанция — Википедия
+https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+[0.0019563728846718185=ядерный реактор]
+Sun Apr 08 21:33:45 IRKT 2018
+Линия электропередачи — Википедия
+https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8
+[0.009348659003831417=линия постоянного тока]
+Sun Apr 08 21:36:22 IRKT 2018
+Водные ресурсы — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B
+[0.009652509652509652=подземные воды]
+Sun Apr 08 21:36:22 IRKT 2018
+Горная промышленность — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+[0.04834254143646409=горная промышленность]
+Sun Apr 08 21:36:23 IRKT 2018
+Лесное хозяйство — Википедия
+https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE
+[0.0035460992907801418=лесная промышленность]
+Sun Apr 08 21:36:23 IRKT 2018
+Топливо — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8E%D1%87%D0%B5%D0%B5
+[0.00883442576232545=ядерное топливо, 0.0042747221430607=природный газ]
+Sun Apr 08 21:36:23 IRKT 2018
+Ядерное топливо — Википедия
+https://ru.wikipedia.org/wiki/%D0%AF%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE
+[0.008490370677158833=обогащение урана]
+Sun Apr 08 21:37:34 IRKT 2018
+Ватт — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%82%D1%82
+[0.0038324664659184233=мегаватт мощности, 0.002737476047084588=мвт энергии]
+Sun Apr 08 21:37:45 IRKT 2018
+Межзвёздная среда — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%B7
+[0.0016525890561880279=энергия ветра]
+Sun Apr 08 21:37:47 IRKT 2018
+Уран (элемент) — Википедия
+https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B0%D0%BD_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)
+[0.004764198918687437=природный уран, 8.564851988651571E-4=ядерный реактор, 3.747122745035062E-4=урановая руда]
+Sun Apr 08 21:37:48 IRKT 2018
+Ископаемое топливо — Википедия
+https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D0%BE%D0%BF%D0%B0%D0%B5%D0%BC%D0%BE%D0%B5_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE
+[0.005390463026952315=природный газ]
+Sun Apr 08 21:37:54 IRKT 2018
+Электроэнергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.005584756898817345=мвт энергии]
+Sun Apr 08 21:37:59 IRKT 2018
+Солнечная энергия — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&redirect=no
+[0.012199170124481327=энергия солнца и ветра, 0.003734439834024896=мвт энергии, 0.002240663900414938=энергия солнца, 0.0013278008298755186=энергия ветра]
+Sun Apr 08 21:38:11 IRKT 2018
+Союз Советских Социалистических Республик — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%A1%D0%A1%D0%A0
+[6.866088389444533E-4=система регулирования, 2.5175657427963286E-4=пик потребления]
+Sun Apr 08 21:38:13 IRKT 2018
+Электрический ток — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%BE%D0%BA%D0%B8
+[0.0020627062706270625=электрическая мощность]
+Sun Apr 08 21:38:25 IRKT 2018
+Империя инков — Википедия
+https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%BA%D0%B8
+[0.001862759905351659=глава государства]
+Sun Apr 08 21:39:19 IRKT 2018
+Империя инков — Википедия
+https://ru.wikipedia.org/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F_%D0%98%D0%BD%D0%BA%D0%BE%D0%B2
+[0.0018626661296818367=глава государства]
+Sun Apr 08 21:39:22 IRKT 2018
+Цветовая температура — Википедия
+https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0
+[0.004278490859587709=источник энергии]
+Sun Apr 08 21:42:43 IRKT 2018
+ЭСБЕ/Энергия Солнца — Викитека
+https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F_%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B0
+[0.026815642458100558=энергия солнца]
+Sun Apr 08 21:45:31 IRKT 2018
+Солнце. - Физическая энциклопедия
+http://www.femto.com.ua/articles/part_2/3751.html
+[0.0018734218457277835=энергия солнца, 0.0016290624745458988=солнечная энергия]
+Sun Apr 08 21:45:57 IRKT 2018
+СОЛНЦЕ | Энциклопедия Кругосвет
+http://www.krugosvet.ru/enc/nauka_i_tehnika/astronomiya/SOLNTSE.html
+[0.032646834477498096=энергия солнца и ветра, 0.013119755911517926=энергия солнца, 0.0018306636155606408=солнечная энергия, 0.0010678871090770404=энергия ветра]
+Sun Apr 08 21:51:21 IRKT 2018
+ГЛОНАСС — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%9B%D0%9E%D0%9D%D0%90%D0%A1%D0%A1
+[0.002510910503975608=система мониторинга]
+Sun Apr 08 21:51:23 IRKT 2018
+GPS — Википедия
+https://ru.wikipedia.org/wiki/GPS
+[0.012910468706146507=система контроля и управления, 0.0022452989054167834=система управления]
+Sun Apr 08 21:51:34 IRKT 2018
+Сахара — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D0%B0
+[0.0013039355144618303=подземные воды]
+Sun Apr 08 21:51:35 IRKT 2018
+Карибское море — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5
+[6.571087216248506E-4=островной регион]
+Sun Apr 08 22:04:28 IRKT 2018
+Амазонка — Википедия
+https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD%D0%BA%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)
+[9.46969696969697E-4=подземный источник]
+Sun Apr 08 22:06:11 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&stable=1
+[0.007054673721340388=мвт энергии]
+Sun Apr 08 22:06:12 IRKT 2018
+Геотермальная энергетика — различия между версиями — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&oldid=81079676&diff=cur&diffonly=0
+[0.004474618114488505=мвт энергии, 0.0030087949390526156=суммарная установленная мощность, 0.002314457645425089=суммарная мощность]
+Sun Apr 08 22:06:13 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&stable=1
+[0.007044734061289186=мвт энергии]
+Sun Apr 08 22:06:14 IRKT 2018
+Геотермальная энергетика — различия между версиями — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&oldid=81079676&diff=cur&diffonly=0
+[0.004474618114488505=мвт энергии, 0.0030087949390526156=суммарная установленная мощность, 0.002314457645425089=суммарная мощность]
+Sun Apr 08 22:06:16 IRKT 2018
+Бурение — Википедия
+https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5
+[0.013346515076618883=бурение скважины]
+Sun Apr 08 22:06:18 IRKT 2018
+Новая Зеландия — Википедия
+https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F
+[2.667419820498337E-4=промышленная добыча]
+Sun Apr 08 22:06:26 IRKT 2018
+Чечня — Википедия
+https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%87%D0%BD%D1%8F
+[0.010329211825166641=глава республики, 0.002137078308655167=глава рф, 0.00147560168930952=глава правительства]
+Sun Apr 08 22:06:27 IRKT 2018
+Ингушетия — Википедия
+https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D1%83%D1%88%D0%B5%D1%82%D0%B8%D1%8F
+[0.007801272839252721=глава республики, 0.0011804557585711353=глава правительства]
+Sun Apr 08 22:06:27 IRKT 2018
+Кабардино-Балкария — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%BE-%D0%91%D0%B0%D0%BB%D0%BA%D0%B0%D1%80%D0%B8%D1%8F
+[0.0041301627033792235=глава республики]
+Sun Apr 08 22:06:28 IRKT 2018
+Водоносный горизонт — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BD%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82
+[0.012746234067207415=подземные воды]
+Sun Apr 08 22:06:28 IRKT 2018
+Свинец — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D0%B5%D1%86
+[4.8796356538711777E-4=свинцовый висмут]
+Sun Apr 08 22:07:14 IRKT 2018
+Тепло Земли
+http://elementy.ru/nauchno-populyarnaya_biblioteka/432185/images/eltpub/geothermal_energy_6_500.jpg
+[0.004558896007885658=мвт энергии]
+Sun Apr 08 22:07:18 IRKT 2018
+Энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.00426829268292683=природный газ, 0.0032520325203252032=электрическая сеть, 0.002845528455284553=централизованное теплоснабжение, 0.0016260162601626016=электрическая подстанция]
+Sun Apr 08 22:07:20 IRKT 2018
+Газопоршневая электростанция — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BE%D0%BF%D0%BE%D1%80%D1%88%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+[0.009314703925482368=природный газ]
+Sun Apr 08 22:07:23 IRKT 2018
+Котельная — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F
+[0.002542372881355932=централизованное теплоснабжение]
+Sun Apr 08 22:07:23 IRKT 2018
+Отопительный котёл — Википедия
+https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BE%D0%BF%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%82%D1%91%D0%BB
+[0.0012266176019625882=централизованное теплоснабжение]
+Sun Apr 08 22:07:23 IRKT 2018
+Мини-ТЭЦ — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B8-%D0%A2%D0%AD%D0%A6
+[0.011118378024852845=природный газ]
+Sun Apr 08 22:07:24 IRKT 2018
+Тепловая сеть — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C
+[0.002073255010366275=централизованное теплоснабжение]
+Sun Apr 08 22:07:25 IRKT 2018
+Топливная промышленность — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+[0.01371841155234657=атомная промышленность]
+Sun Apr 08 22:07:25 IRKT 2018
+Генераторный газ — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%B7
+[0.026262626262626262=природный газ]
+Sun Apr 08 22:07:25 IRKT 2018
+Коксовый газ — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B3%D0%B0%D0%B7
+[0.01982228298017772=природный газ]
+Sun Apr 08 22:07:26 IRKT 2018
+Доменный газ — Википедия
+https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%B7
+[0.01768346595932803=природный газ]
+Sun Apr 08 22:07:27 IRKT 2018
+Синтез-газ — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D0%B5%D0%B7-%D0%B3%D0%B0%D0%B7
+[0.015902140672782873=природный газ]
+Sun Apr 08 22:07:27 IRKT 2018
+Топливо — Википедия
+https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D0%B5_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE
+[0.009111617312072894=ядерное топливо, 0.004271070615034169=природный газ]
+Sun Apr 08 22:07:28 IRKT 2018
+Дизельное топливо — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D1%8F%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE
+[0.01693201920646955=дизельное топливо, 0.003538033864038413=углеводородный газ]
+Sun Apr 08 22:07:28 IRKT 2018
+Мазут — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B7%D1%83%D1%82
+[0.0087527352297593=природный газ]
+Sun Apr 08 22:07:29 IRKT 2018
+Бурый уголь — Википедия
+https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%8B%D0%B9_%D1%83%D0%B3%D0%BE%D0%BB%D1%8C
+[0.00414794331144141=природный газ, 0.002592464569650881=угольный бассейн]
+Sun Apr 08 22:07:29 IRKT 2018
+Антрацит — Википедия
+https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%82
+[0.005090677696468342=природный газ]
+Sun Apr 08 22:07:29 IRKT 2018
+Горючий сланец — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8E%D1%87%D0%B8%D0%B9_%D1%81%D0%BB%D0%B0%D0%BD%D0%B5%D1%86
+[0.008352668213457077=природный газ]
+Sun Apr 08 22:07:30 IRKT 2018
+Синтетическое топливо — Википедия
+https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE
+[0.004416550441655044=природный газ]
+Sun Apr 08 22:07:30 IRKT 2018
+Древесный уголь — Википедия
+https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D1%83%D0%B3%D0%BE%D0%BB%D1%8C
+[0.009262689885142644=природный газ]
+Sun Apr 08 22:07:30 IRKT 2018
+Торфяной кокс — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BE%D0%BA%D1%81
+[0.0194884287454324=природный газ]
+Sun Apr 08 22:07:31 IRKT 2018
+MOX-топливо — Википедия
+https://ru.wikipedia.org/wiki/MOX-%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE
+[0.002353402627966268=ядерное топливо]
+Sun Apr 08 22:07:32 IRKT 2018
+Управляемый термоядерный синтез — Википедия
+https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.0019504748982360923=ядерный реактор]
+Sun Apr 08 22:07:33 IRKT 2018
+Плутоний — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%83%D1%82%D0%BE%D0%BD%D0%B8%D0%B9
+[0.0035321953692749705=реактор на быстрых нейтронах, 5.577150583065743E-4=ядерный реактор, 4.7321277674497214E-4=природный уран]
+Sun Apr 08 22:07:34 IRKT 2018
+Гелий-3 — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%B9-3
+[0.0015495140160585999=ядерный реактор]
+Sun Apr 08 22:07:34 IRKT 2018
+Портал:Энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.0033745781777277844=угольный разрез]
+Sun Apr 08 22:07:35 IRKT 2018
+Ядерная энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%AF%D0%B4%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.005750063889598773=атомная энергетика]
+Sun Apr 08 22:07:36 IRKT 2018
+Солнечная энергетика — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0
+[0.007476635514018692=солнечная энергетика, 0.005607476635514018=мвт энергии]
+Sun Apr 08 22:07:38 IRKT 2018
+Угольная промышленность — Википедия
+https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+[0.0028089887640449437=угольная шахта]
+Sun Apr 08 22:07:43 IRKT 2018
+Лесная промышленность — Википедия
+https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+[0.028506271379703536=лесная промышленность]
+Sun Apr 08 22:07:53 IRKT 2018
+Мясная промышленность — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D1%8F%D1%81%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+[0.0013850415512465374=угольная отрасль]
+Sun Apr 08 22:07:57 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/w/index.php?title=Геотермальная_энергетика&oldid=89743639
+[0.006426958485322216=мвт энергии]
+Sun Apr 08 22:08:10 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&stable=0&redirect=no
+[0.006434782608695652=мвт энергии]
+Sun Apr 08 22:08:21 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&oldid=89743639
+[0.006426958485322216=мвт энергии]
+Sun Apr 08 22:08:38 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&printable=yes
+[0.00666786808433952=мвт энергии]
+Sun Apr 08 22:19:29 IRKT 2018
+Геотермальная энергетика — Википедия
+https://ru.m.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0&mobileaction=toggle_view_mobile
+[0.008887821282728801=мвт энергии]
+Sun Apr 08 22:19:33 IRKT 2018
+Энергия волн океана — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D0%B2%D0%BE%D0%BB%D0%BD
+[0.007891770011273957=энергия ветра]
+Sun Apr 08 22:19:33 IRKT 2018
+Энергия температурного градиента морской воды — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F_%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%B0_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B4%D1%8B
+[0.007451564828614009=мвт энергии]
+Sun Apr 08 22:20:10 IRKT 2018
+2014 год — Википедия
+https://ru.wikipedia.org/wiki/2014_%D0%B3%D0%BE%D0%B4
+[0.0012710828648252262=глава республики]
+Sun Apr 08 22:21:32 IRKT 2018
+Исламское государство — Википедия
+https://ru.wikipedia.org/wiki/%D0%98%D0%93%D0%98%D0%9B
+[0.0017879046173676222=глава государства]
+Sun Apr 08 22:21:38 IRKT 2018
+Эстония — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
+[0.00103995146893145=глава республики, 4.7664442326024784E-4=глава государства]
+Sun Apr 08 22:21:39 IRKT 2018
+Президенты Уругвая — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%8B_%D0%A3%D1%80%D1%83%D0%B3%D0%B2%D0%B0%D1%8F
+[0.0035733919736118747=глава правительства]
+Sun Apr 08 22:21:40 IRKT 2018
+Донецк — Википедия
+https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA
+[0.0010956595027391488=глава области, 5.899705014749262E-4=глава республики]
+Sun Apr 08 22:22:03 IRKT 2018
+Путин, Владимир Владимирович — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+[0.0013146283923715536=глава рф, 9.364476219632984E-4=глава правительства]
+Sun Apr 08 22:22:24 IRKT 2018
+Исламское государство — Википедия
+https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%98%D1%80%D0%B0%D0%BA%D0%B0_%D0%B8_%D0%9B%D0%B5%D0%B2%D0%B0%D0%BD%D1%82%D0%B0
+[0.001788090485695276=глава государства]
+Sun Apr 08 22:22:50 IRKT 2018
+Шанхайская организация сотрудничества — Википедия
+https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D1%85%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0
+[8.140008140008141E-4=глава государства]
+Sun Apr 08 22:23:03 IRKT 2018
+МиГ-23 — Википедия
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%93-23
+[0.002015513345141391=система управления, 1.526904049349539E-4=электрический узел, 9.161424296097234E-5=электрический привод]
+Sun Apr 08 22:23:09 IRKT 2018
+Список премьер-министров Греции — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8
+[0.002317345109527349=глава правительства]
+Sun Apr 08 22:23:21 IRKT 2018
+Единый день голосования 13 сентября 2015 года — Википедия
+https://ru.wikipedia.org/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_13_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2015_%D0%B3%D0%BE%D0%B4%D0%B0
+[0.011013880506940254=костромская область]
+Sun Apr 08 22:23:24 IRKT 2018
+Парламентские выборы в Греции (сентябрь 2015) — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8_(%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2015)
+[0.0013331111481419762=глава правительства]
+Sun Apr 08 22:23:37 IRKT 2018
+Катастрофа Boeing 777 в Донецкой области — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_Boeing_777_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8
+[7.603599036877455E-4=глава рф, 6.843239133189709E-4=глава области]
+Sun Apr 08 22:23:57 IRKT 2018
+Страсбург — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%81%D0%B1%D1%83%D1%80%D0%B3
+[4.6377887023467206E-4=норма осадков]
+Sun Apr 08 22:24:05 IRKT 2018
+Су-24 — Википедия
+https://ru.wikipedia.org/wiki/%D0%A1%D1%83-24
+[0.017964071856287425=система контроля и управления, 0.0036849378166743437=система управления, 0.001957623215108245=система регулирования]
+Sun Apr 08 22:24:08 IRKT 2018
+Энергомост в Крым — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%BC%D0%BE%D1%81%D1%82_%D0%B2_%D0%9A%D1%80%D1%8B%D0%BC
+[0.004189456534388456=минэнерго россии]
+Sun Apr 08 22:24:37 IRKT 2018
+Умершие в марте 2015 года — Википедия
+https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%BC%D0%B0%D1%80%D1%82%D0%B5_2015_%D0%B3%D0%BE%D0%B4%D0%B0
+[0.0013068641483601968=генеральный директор, 6.845478872362935E-4=генеральный секретарь]
+Sun Apr 08 22:24:42 IRKT 2018
+Умершие в апреле 2015 года — Википедия
+https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D0%B5_2015_%D0%B3%D0%BE%D0%B4%D0%B0
+[9.836987071388421E-4=генеральный директор]
+Sun Apr 08 22:24:49 IRKT 2018
+Умершие в мае 2015 года — Википедия
+https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%BC%D0%B0%D0%B5_2015_%D0%B3%D0%BE%D0%B4%D0%B0
+[0.0012780460096563475=глава области, 0.0012070434535643283=генеральный директор, 7.810281170122124E-4=главный инженер]
+Sun Apr 08 22:24:58 IRKT 2018
+Примаков, Евгений Максимович — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87
+[9.129213483146068E-4=ближний восток]
+Sun Apr 08 22:24:58 IRKT 2018
+Чечня — Википедия
+https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0
+[0.010325008900869742=глава республики, 0.002136208738110981=глава рф, 0.0014750012715528203=глава правительства]
+Sun Apr 08 22:24:59 IRKT 2018
+Умершие в июле 2015 года — Википедия
+https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%B8%D1%8E%D0%BB%D0%B5_2015_%D0%B3%D0%BE%D0%B4%D0%B0
+[0.0012967015155198962=генеральный директор]
+Sun Apr 08 22:25:02 IRKT 2018
+Умершие в августе 2015 года — Википедия
+https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B5_2015_%D0%B3%D0%BE%D0%B4%D0%B0
+[0.0013617793917385383=министр энергетики, 9.986382206082615E-4=главный организатор]
+Sun Apr 08 22:25:12 IRKT 2018
+Умершие в ноябре 2015 года — Википедия
+https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D0%B5_2015_%D0%B3%D0%BE%D0%B4%D0%B0
+[8.37648492232714E-4=главный организатор, 6.853487663722206E-4=главный инженер]
+Sun Apr 08 22:25:14 IRKT 2018
+Президент Республики Корея — Википедия
+https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9A%D0%BE%D1%80%D0%B5%D1%8F
+[0.003898635477582846=глава республики, 0.001299545159194282=глава государства]
+Sun Apr 08 22:26:23 IRKT 2018
+В Минске договорились о прекращении огня на Украине – Мир – Коммерсантъ
+http://www.kommersant.ru/Doc/2665174
+[0.0033552876848514978=глава рф]
+Sun Apr 08 22:29:37 IRKT 2018
+Глава олимпийского комитета России: сборная по фехтованию доказала свою силу на ЧМ-2015 - Спорт - ТАСС
+http://tass.ru/sport/2130007
+[0.005886681383370125=место происшествия]
+Sun Apr 08 22:30:21 IRKT 2018
+Гватемальский суд отправил экс-президента под стражу - Международная панорама - ТАСС
+http://tass.ru/mezhdunarodnaya-panorama/2234246
+[0.00418702023726448=глава государства]
+Sun Apr 08 22:30:54 IRKT 2018
+РусГидро ввело в эксплуатацию Гоцатлинскую ГЭС
+http://www.rushydro.ru/press/news/98999.html
+[0.023017107309486782=среднеканская гэс]
+Sun Apr 08 22:32:09 IRKT 2018
+В ливанском Бейруте в результате двойного теракта погибли 43 человека - Газета.Ru
+http://www.gazeta.ru/social/2015/11/13/7889567.shtml
+[0.0020341741253051262=глава государства]
+Sun Apr 08 22:36:34 IRKT 2018
+Авария на Чернобыльской АЭС — Википедия
+https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%80%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D0%AD%D0%A1
+[0.0014580001881290565=персонал станции]
+Sun Apr 08 22:36:39 IRKT 2018
+Энергетика России — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8
+[0.0018832391713747645=топливная компания]
+Sun Apr 08 22:36:39 IRKT 2018
+Энергетика Канады — Википедия
+https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B
+[0.0015463120457708365=природный газ]
+Sun Apr 08 22:37:51 IRKT 2018
+Мировое потребление энергии — Википедия
+https://ru.wikipedia.org/w/index.php?title=Мировое_потребление_энергии&oldid=91061097
+[0.006561922365988909=мвт энергии]
+Sun Apr 08 22:37:56 IRKT 2018
+Мировое потребление энергии — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8&oldid=91061097
+[0.006561922365988909=мвт энергии]
+Sun Apr 08 22:38:01 IRKT 2018
+Мировое потребление энергии — Википедия
+https://ru.wikipedia.org/w/index.php?title=%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8&printable=yes
+[0.006667292703540239=мвт энергии]
+Sun Apr 08 22:38:14 IRKT 2018
+Мировое потребление энергии — Википедия
+https://ru.m.wikipedia.org/w/index.php?title=%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8&mobileaction=toggle_view_mobile
+[0.006819953234606392=мвт энергии]
+Sun Apr 08 22:38:29 IRKT 2018
+Организация Объединённых Наций — Википедия
+https://ru.wikipedia.org/wiki/%D0%9E%D0%9E%D0%9D
+[0.001643223346917313=генеральный секретарь]
+Sun Apr 08 22:38:31 IRKT 2018
+Проблема поставок и транспортировки энергоносителей в российско-украинских отношениях — Википедия
+https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0
+[0.005867014341590613=природный газ]
+Sun Apr 08 22:38:40 IRKT 2018
+Вильпен, Доминик де — Википедия
+https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D0%BF%D0%B5%D0%BD,_%D0%94%D0%BE%D0%BC%D0%B8%D0%BD%D0%B8%D0%BA_%D0%B4%D0%B5
+[0.002183406113537118=глава республики]
+Sun Apr 08 22:38:47 IRKT 2018
+Атомная электростанция — Википедия
+https://ru.wikipedia.org/wiki/%D0%90%D0%AD%D0%A1
+[0.0019550342130987292=ядерный реактор]
+Sun Apr 08 22:38:53 IRKT 2018
+Кальдерон, Фелипе — Википедия
+https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BB%D0%B8%D0%BF%D0%B5_%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D1%80%D0%BE%D0%BD
+[0.0021376656690893546=министр энергетики]
+Sun Apr 08 22:38:58 IRKT 2018
+Иркутск — Википедия
+https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA
+[0.001621670320430043=иркутская гэс, 7.808042283552058E-4=сибирская гэс]
+Sun Apr 08 22:39:03 IRKT 2018
+Донецкая область — Википедия
+https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C
+[0.0027247956403269754=угольная шахта]
+Sun Apr 08 22:39:04 IRKT 2018
+Катастрофа Ту-154 под Донецком — Википедия
+https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%B0%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_%D1%80%D0%B5%D0%B9%D1%81%D0%B0_612
+[5.923138566600466E-4=место происшествия]
+Sun Apr 08 22:39:44 IRKT 2018
+Комитет государственной безопасности СССР — Википедия
+https://ru.wikipedia.org/wiki/%D0%9A%D0%93%D0%91
+[2.995805871779509E-4=техническое обслуживание]
+Sun Apr 08 22:44:52 IRKT 2018
+карта сайта | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/karta-sajta/
+[0.0183206106870229=энергия ветра]
+Sun Apr 08 22:44:57 IRKT 2018
+Солнечный соляной пруд — базовый элемент индивидуальных солнечных установок.Использование солнечной энергии | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/solnechnyjj-solyanojj-prud-bazovyjj-ehlement-individualnykh-solnechnykh-ustanovok-ispolzovanie-solnechnojj-ehnergii/
+[0.009534961525593844=мвт энергии, 0.003345600535296086=электрическая мощность]
+Sun Apr 08 22:45:07 IRKT 2018
+ветер | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/tag/veter/
+[0.007770472205618649=энергия ветра]
+Sun Apr 08 22:45:17 IRKT 2018
+Часть 1.Потенциал ВИЭ.Актуальность совместного использования солнечной и ветровой энергии для энергетики малых мощностей | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/potencial-vieh-aktualnost-sovmestnogo-ispolzovaniya-solnechnojj-i-vetrovojj-ehnergii-dlya-ehnergetiki-malykh-moshhnostejj/
+[0.011478599221789882=мвт энергии]
+Sun Apr 08 22:45:20 IRKT 2018
+Часть 2.Потенциал ВИЭ.Актуальность совместного использования солнечной и ветровой энергии для энергетики малых мощностей | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/prodolzhenie-potencial-vieh-aktualnost-sovmestnogo-ispolzovaniya-solnechnojj-i-vetrovojj-ehnergii-dlya-ehnergetiki-malykh-moshhnostejj-2/
+[0.007336594041796354=энергия ветра]
+Sun Apr 08 22:45:21 IRKT 2018
+Ветряки для выработки электрической энергии. Использование ветряных мельниц | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/vetryaki-dlya-vyrabotki-ehlektricheskojj-ehnergii-ispolzovanie-vetryanykh-melnic/
+[0.01333968556455455=энергия ветра]
+Sun Apr 08 22:45:23 IRKT 2018
+Энергия солнечных батарей. Альтернативные источники энергии солнечные элементы | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/energiya-solnechnyx-batarej-alternativnye-istochniki-energii-solnechnye-elementy/
+[0.019747668678003292=источник энергии, 0.00877674163466813=энергия ветра]
+Sun Apr 08 22:45:24 IRKT 2018
+Возобновляемые источники энергии в Индии.Таких как энергия биомассы, солнечной энергии, энергии ветра и геотермальной энергии. | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/vozobnovlyaemye-istochniki-energii-v-indii-takix-kak-energiya-biomassy-solnechnoj-energii-energii-vetra-i-geotermalnoj-energii/
+[0.021148036253776436=энергия ветра, 0.01661631419939577=солнечная энергия]
+Sun Apr 08 22:45:27 IRKT 2018
+Использование Возобновляемых Источников Энергии. Нетрадиционные источники энергии в России | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/vozobnovlyaemye-istochniki-energii/
+[0.006481128478841022=энергия ветра]
+Sun Apr 08 22:45:30 IRKT 2018
+США | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/tag/ssha/
+[0.01359338061465721=энергия ветра, 0.0070921985815602835=солнечная энергия]
+Sun Apr 08 22:45:34 IRKT 2018
+Самодельный ветрогенератор,ветряк.Ветрогенератор своими руками с вертикальной осью вращения | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/samodelnyjj-vetrogenerator-izgotovlennyjj-svoimi-rukami-vetrogenerator-s-vertikalnojj-osyu-vrashheniya/
+[0.00657501494321578=энергия ветра]
+Sun Apr 08 22:45:35 IRKT 2018
+Использование энергии воды. Совместное использование солнечной энергии и холода малых водотоков | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/ispolzovanie-ehnergii-vody-sovmestnoe-ispolzovanie-solnechnojj-ehnergii-i-kholoda-malykh-vodotokov/
+[0.0032794565472007496=энергия ветра]
+Sun Apr 08 22:45:41 IRKT 2018
+Нереальная история — Советские Ученые — Источник нетрадиционной энергии | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/nerealnaya-istoriya-sovetskie-uchenyie-istochnik-netraditsionnoy-energii/
+[0.062277580071174385=источник энергии, 0.019572953736654804=энергия ветра]
+Sun Apr 08 22:45:46 IRKT 2018
+Автономная Ветроэнергетика | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/avtonomnaya-vetroenergetika/
+[0.011851015801354402=энергия ветра]
+Sun Apr 08 22:45:47 IRKT 2018
+энергосбережение | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/energosberezhenie/
+[0.01283147989734816=энергия ветра]
+Sun Apr 08 22:45:49 IRKT 2018
+Вертикальный ветрогенератор | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/vertikalnyj-vetrogenerator-2/
+[0.010382513661202186=энергия ветра]
+Sun Apr 08 22:45:52 IRKT 2018
+Заметки про ветроэнергетику | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/zametki-pro-vetroenergetiku/
+[0.020338983050847456=энергия ветра]
+Sun Apr 08 22:45:53 IRKT 2018
+термины и определения | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/terminy-i-opredeleniya/
+[0.01005656819610308=энергия ветра]
+Sun Apr 08 22:45:57 IRKT 2018
+Готовые модели | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/gotovye-modeli/
+[0.00805523590333717=энергия ветра]
+Sun Apr 08 22:46:04 IRKT 2018
+Строительство | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/stroitelstvo/
+[0.020624303232998884=энергия ветра]
+Sun Apr 08 22:46:09 IRKT 2018
+генератор | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/generator/
+[0.009168704156479218=энергия ветра]
+Sun Apr 08 22:46:14 IRKT 2018
+ископаемое топливо | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/iskopaemoe-toplivo/
+[0.021004566210045664=энергия ветра, 0.0182648401826484=источник энергии]
+Sun Apr 08 22:46:14 IRKT 2018
+история | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/istoriya/
+[0.007847533632286996=энергия ветра]
+Sun Apr 08 22:46:23 IRKT 2018
+природа | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/priroda/
+[0.0048484848484848485=энергия ветра]
+Sun Apr 08 22:46:28 IRKT 2018
+страны | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/strany/
+[0.014062499999999999=энергия ветра]
+Sun Apr 08 22:46:34 IRKT 2018
+энергия | ВЕТРОДВИГ.RU
+http://vetrodvig.ru/category/energiya/
+[0.020156774916013438=энергия ветра]
