@@ -16,5 +16,31 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <ANNOTATIONS>
+          <root url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" />
+        </ANNOTATIONS>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" />
+          <root url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" />
+        </JAVADOC>
+        <NATIVE>
+          <root url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" />
+        </NATIVE>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" />
+          <root url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" />
+        </SOURCES>
+        <jarDirectory url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" recursive="false" />
+        <jarDirectory url="jar://$MODULE_DIR$/h2-1.0.70.jar!/" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="h2-1.2.121" level="project" />
+    <orderEntry type="library" name="h2-1.0.70" level="project" />
+    <orderEntry type="library" name="h2-1.4.197" level="project" />
   </component>
 </module>
